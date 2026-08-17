@@ -9,7 +9,12 @@
   "scripts": {
     "build": "tsc",
     "start": "node dist/cli.js",
-    "dev": "tsx src/cli.ts"
+    "dev": "tsx src/cli.ts",
+    "site:sync": "npm --prefix site run sync",
+    "site:dev": "npm --prefix site run dev",
+    "site:build": "npm --prefix site run build",
+    "site:preview": "npm --prefix site run preview",
+    "site:deploy": "npm --prefix site run deploy"
   },
   "keywords": [],
   "author": "",
