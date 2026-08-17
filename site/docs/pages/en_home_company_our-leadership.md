@@ -1,0 +1,29 @@
+---
+title: "our-leadership"
+---
+
+<!-- generated: component composition analysis -->
+**Page:** [`/en/home/company/our-leadership`](/pages/en_home_company_our-leadership)  
+**Template cluster:** `16d3f47a61` (leadership overview page)  
+*Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
+
+# Leadership overview page
+
+People directory: centered intro on white, then a light-gray band holding four grouped grids of leader tiles.
+
+1. [`richtext`](/components/richtext) — centered H1 "Leaders". Margin below: ~24px (visual estimate).
+2. [`on-page-navigation`](/components/on-page-navigation) — 4 pipe-separated anchor links matching the group sections. Margin below: 50px (section-buffer, 5rem).
+3. [`richtext`](/components/richtext) — centered intro paragraph. Margin below: 100px (content-buffer, 10rem).
+4. [`people-overview`](/components/people-overview) — "Enterprise" heading with 7 leader tiles (circular photo, name linking to bio page, role), 5 per row. Margin below: 100px (content-buffer).
+5. [`people-overview`](/components/people-overview) — "Intelligent Labels Platform" heading with 1 tile. Margin below: 100px (content-buffer).
+6. [`people-overview`](/components/people-overview) — "Materials Group" heading with 6 tiles. Margin below: 100px (content-buffer).
+7. [`people-overview`](/components/people-overview) — "Solutions Group" heading with 2 tiles. Margin below: 100px (content-buffer) to page end.
+
+## Vertical rhythm
+content-buffer 10rem/100px between people groups; section-buffer 5rem/50px between each group heading and its tile grid.
+
+## Screenshot
+
+Full-page capture at 1440px viewport width (header/footer cropped), scaled to 800px:
+
+<img src="/screens/en_home_company_our-leadership.webp" alt="Full-page screenshot of /en/home/company/our-leadership" loading="lazy" style="max-width:100%;border:1px solid var(--vp-c-divider);border-radius:6px;" />

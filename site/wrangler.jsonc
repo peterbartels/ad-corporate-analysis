@@ -1,0 +1,11 @@
+// Optional: deploy as a Cloudflare Worker with static assets
+// (alternative to the Pages git integration described in README.md):
+//   npm run build && npx wrangler deploy
+{
+  "name": "ad-component-inventory",
+  "compatibility_date": "2026-08-01",
+  "assets": {
+    "directory": "docs/.vitepress/dist",
+    "not_found_handling": "404-page"
+  }
+}

@@ -1,0 +1,1646 @@
+[
+ {
+  "text": "Components (36)",
+  "collapsed": false,
+  "items": [
+   {
+    "text": "Overview",
+    "link": "/components/"
+   },
+   {
+    "text": "accordion-block",
+    "link": "/components/accordion-block"
+   },
+   {
+    "text": "article-author",
+    "link": "/components/article-author"
+   },
+   {
+    "text": "article-header",
+    "link": "/components/article-header"
+   },
+   {
+    "text": "article-quote",
+    "link": "/components/article-quote"
+   },
+   {
+    "text": "back-link",
+    "link": "/components/back-link"
+   },
+   {
+    "text": "button",
+    "link": "/components/button"
+   },
+   {
+    "text": "button-group",
+    "link": "/components/button-group"
+   },
+   {
+    "text": "callout-box",
+    "link": "/components/callout-box"
+   },
+   {
+    "text": "campaign-stat-hero",
+    "link": "/components/campaign-stat-hero"
+   },
+   {
+    "text": "carousel-block",
+    "link": "/components/carousel-block"
+   },
+   {
+    "text": "categories-block",
+    "link": "/components/categories-block"
+   },
+   {
+    "text": "cta-block",
+    "link": "/components/cta-block"
+   },
+   {
+    "text": "form-block",
+    "link": "/components/form-block"
+   },
+   {
+    "text": "hero-carousel",
+    "link": "/components/hero-carousel"
+   },
+   {
+    "text": "html-embed",
+    "link": "/components/html-embed"
+   },
+   {
+    "text": "icon-button",
+    "link": "/components/icon-button"
+   },
+   {
+    "text": "image",
+    "link": "/components/image"
+   },
+   {
+    "text": "image-link-block",
+    "link": "/components/image-link-block"
+   },
+   {
+    "text": "job-search",
+    "link": "/components/job-search"
+   },
+   {
+    "text": "logo-grid",
+    "link": "/components/logo-grid"
+   },
+   {
+    "text": "media-contacts",
+    "link": "/components/media-contacts"
+   },
+   {
+    "text": "on-page-navigation",
+    "link": "/components/on-page-navigation"
+   },
+   {
+    "text": "people-overview",
+    "link": "/components/people-overview"
+   },
+   {
+    "text": "person-bio",
+    "link": "/components/person-bio"
+   },
+   {
+    "text": "publication",
+    "link": "/components/publication"
+   },
+   {
+    "text": "richtext",
+    "link": "/components/richtext"
+   },
+   {
+    "text": "short-hero",
+    "link": "/components/short-hero"
+   },
+   {
+    "text": "side-by-side",
+    "link": "/components/side-by-side"
+   },
+   {
+    "text": "site-search",
+    "link": "/components/site-search"
+   },
+   {
+    "text": "social-share",
+    "link": "/components/social-share"
+   },
+   {
+    "text": "statistics-block",
+    "link": "/components/statistics-block"
+   },
+   {
+    "text": "table",
+    "link": "/components/table"
+   },
+   {
+    "text": "testimonial-card",
+    "link": "/components/testimonial-card"
+   },
+   {
+    "text": "tile",
+    "link": "/components/tile"
+   },
+   {
+    "text": "timeline-block",
+    "link": "/components/timeline-block"
+   },
+   {
+    "text": "video-block",
+    "link": "/components/video-block"
+   }
+  ]
+ },
+ {
+  "text": "Pages (328)",
+  "collapsed": false,
+  "items": [
+   {
+    "text": "All pages",
+    "link": "/pages/"
+   },
+   {
+    "text": "avery dennison corporate search",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "(overview)",
+      "link": "/pages/en_home_avery-dennison-corporate-search"
+     }
+    ]
+   },
+   {
+    "text": "careers",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "(overview)",
+      "link": "/pages/en_home_careers"
+     },
+     {
+      "text": "applicant-affirmative-action-program",
+      "link": "/pages/en_home_careers_applicant-affirmative-action-program"
+     },
+     {
+      "text": "early career opportunities",
+      "collapsed": true,
+      "items": [
+       {
+        "text": "(overview)",
+        "link": "/pages/en_home_careers_early-career-opportunities"
+       },
+       {
+        "text": "asia-pacific",
+        "link": "/pages/en_home_careers_early-career-opportunities_asia-pacific"
+       },
+       {
+        "text": "asia-pacific / ad-nextgen-program",
+        "link": "/pages/en_home_careers_early-career-opportunities_asia-pacific_ad-nextgen-program"
+       },
+       {
+        "text": "asia-pacific / internship-program",
+        "link": "/pages/en_home_careers_early-career-opportunities_asia-pacific_internship-program"
+       },
+       {
+        "text": "asia-pacific / lead-program",
+        "link": "/pages/en_home_careers_early-career-opportunities_asia-pacific_lead-program"
+       },
+       {
+        "text": "europe",
+        "link": "/pages/en_home_careers_early-career-opportunities_europe"
+       },
+       {
+        "text": "europe / commercial",
+        "link": "/pages/en_home_careers_early-career-opportunities_europe_commercial"
+       },
+       {
+        "text": "europe / data-science",
+        "link": "/pages/en_home_careers_early-career-opportunities_europe_data-science"
+       },
+       {
+        "text": "europe / faq",
+        "link": "/pages/en_home_careers_early-career-opportunities_europe_faq"
+       },
+       {
+        "text": "europe / finance",
+        "link": "/pages/en_home_careers_early-career-opportunities_europe_finance"
+       },
+       {
+        "text": "europe / operations",
+        "link": "/pages/en_home_careers_early-career-opportunities_europe_operations"
+       },
+       {
+        "text": "europe / research-and-development",
+        "link": "/pages/en_home_careers_early-career-opportunities_europe_research-and-development"
+       },
+       {
+        "text": "europe / sales",
+        "link": "/pages/en_home_careers_early-career-opportunities_europe_sales"
+       },
+       {
+        "text": "europe / supply-chain",
+        "link": "/pages/en_home_careers_early-career-opportunities_europe_supply-chain"
+       },
+       {
+        "text": "global",
+        "link": "/pages/en_home_careers_early-career-opportunities_global"
+       },
+       {
+        "text": "north-america",
+        "link": "/pages/en_home_careers_early-career-opportunities_north-america"
+       }
+      ]
+     },
+     {
+      "text": "employee stories",
+      "collapsed": true,
+      "items": [
+       {
+        "text": "(overview)",
+        "link": "/pages/en_home_careers_employee-stories"
+       },
+       {
+        "text": "alexandrina-cheptanaru",
+        "link": "/pages/en_home_careers_employee-stories_alexandrina-cheptanaru"
+       },
+       {
+        "text": "ana-cervantes",
+        "link": "/pages/en_home_careers_employee-stories_ana-cervantes"
+       },
+       {
+        "text": "andre-salmazzo",
+        "link": "/pages/en_home_careers_employee-stories_andre-salmazzo"
+       },
+       {
+        "text": "andrea-gissi",
+        "link": "/pages/en_home_careers_employee-stories_andrea-gissi"
+       },
+       {
+        "text": "anniek-wiltink",
+        "link": "/pages/en_home_careers_employee-stories_anniek-wiltink"
+       },
+       {
+        "text": "anula-prokopowicz",
+        "link": "/pages/en_home_careers_employee-stories_anula-prokopowicz"
+       },
+       {
+        "text": "arnela-hodzic-isakovic",
+        "link": "/pages/en_home_careers_employee-stories_arnela-hodzic-isakovic"
+       },
+       {
+        "text": "artur-praski",
+        "link": "/pages/en_home_careers_employee-stories_artur-praski"
+       },
+       {
+        "text": "artur-praski / artur-praski-local",
+        "link": "/pages/en_home_careers_employee-stories_artur-praski_artur-praski-local"
+       },
+       {
+        "text": "cristina-linte-glass",
+        "link": "/pages/en_home_careers_employee-stories_cristina-linte-glass"
+       },
+       {
+        "text": "diego-saul",
+        "link": "/pages/en_home_careers_employee-stories_diego-saul"
+       },
+       {
+        "text": "fabrice-bayle",
+        "link": "/pages/en_home_careers_employee-stories_fabrice-bayle"
+       },
+       {
+        "text": "femke-zijlstra",
+        "link": "/pages/en_home_careers_employee-stories_femke-zijlstra"
+       },
+       {
+        "text": "gayan-fernando",
+        "link": "/pages/en_home_careers_employee-stories_gayan-fernando"
+       },
+       {
+        "text": "ioanna-georgiou",
+        "link": "/pages/en_home_careers_employee-stories_ioanna-georgiou"
+       },
+       {
+        "text": "ivete-dias",
+        "link": "/pages/en_home_careers_employee-stories_ivete-dias"
+       },
+       {
+        "text": "jenny-hu",
+        "link": "/pages/en_home_careers_employee-stories_jenny-hu"
+       },
+       {
+        "text": "jigyasa-daiya",
+        "link": "/pages/en_home_careers_employee-stories_jigyasa-daiya"
+       },
+       {
+        "text": "john-ellison",
+        "link": "/pages/en_home_careers_employee-stories_john-ellison"
+       },
+       {
+        "text": "jolanta-wojciechowska",
+        "link": "/pages/en_home_careers_employee-stories_jolanta-wojciechowska"
+       },
+       {
+        "text": "jonas-janiunas",
+        "link": "/pages/en_home_careers_employee-stories_jonas-janiunas"
+       },
+       {
+        "text": "juliana-bonani",
+        "link": "/pages/en_home_careers_employee-stories_juliana-bonani"
+       },
+       {
+        "text": "juliana-bonani / juliana-bonani-local",
+        "link": "/pages/en_home_careers_employee-stories_juliana-bonani_juliana-bonani-local"
+       },
+       {
+        "text": "katarina-kelam",
+        "link": "/pages/en_home_careers_employee-stories_katarina-kelam"
+       },
+       {
+        "text": "krisakorn-rerkrai",
+        "link": "/pages/en_home_careers_employee-stories_krisakorn-rerkrai"
+       },
+       {
+        "text": "marie-brochenin",
+        "link": "/pages/en_home_careers_employee-stories_marie-brochenin"
+       },
+       {
+        "text": "merve-ozdemir-ceran",
+        "link": "/pages/en_home_careers_employee-stories_merve-ozdemir-ceran"
+       },
+       {
+        "text": "michael-bruon",
+        "link": "/pages/en_home_careers_employee-stories_michael-bruon"
+       },
+       {
+        "text": "michael-kampers",
+        "link": "/pages/en_home_careers_employee-stories_michael-kampers"
+       },
+       {
+        "text": "mutlu-cavusoglu",
+        "link": "/pages/en_home_careers_employee-stories_mutlu-cavusoglu"
+       },
+       {
+        "text": "panisara-marukapitak",
+        "link": "/pages/en_home_careers_employee-stories_panisara-marukapitak"
+       },
+       {
+        "text": "paul-dunn",
+        "link": "/pages/en_home_careers_employee-stories_paul-dunn"
+       },
+       {
+        "text": "pierre-goedert",
+        "link": "/pages/en_home_careers_employee-stories_pierre-goedert"
+       },
+       {
+        "text": "richard-ohm",
+        "link": "/pages/en_home_careers_employee-stories_richard-ohm"
+       },
+       {
+        "text": "richard-rigg",
+        "link": "/pages/en_home_careers_employee-stories_richard-rigg"
+       },
+       {
+        "text": "rob-de-koning",
+        "link": "/pages/en_home_careers_employee-stories_rob-de-koning"
+       },
+       {
+        "text": "robin-cote",
+        "link": "/pages/en_home_careers_employee-stories_robin-cote"
+       },
+       {
+        "text": "royce-mason",
+        "link": "/pages/en_home_careers_employee-stories_royce-mason"
+       },
+       {
+        "text": "sabrina-garcia",
+        "link": "/pages/en_home_careers_employee-stories_sabrina-garcia"
+       },
+       {
+        "text": "sanaa-iqbal",
+        "link": "/pages/en_home_careers_employee-stories_sanaa-iqbal"
+       },
+       {
+        "text": "severine-marquet",
+        "link": "/pages/en_home_careers_employee-stories_severine-marquet"
+       },
+       {
+        "text": "sheila-yanes",
+        "link": "/pages/en_home_careers_employee-stories_sheila-yanes"
+       },
+       {
+        "text": "tiina-vuorinen",
+        "link": "/pages/en_home_careers_employee-stories_tiina-vuorinen"
+       },
+       {
+        "text": "truc-le",
+        "link": "/pages/en_home_careers_employee-stories_truc-le"
+       },
+       {
+        "text": "valentin-rock",
+        "link": "/pages/en_home_careers_employee-stories_valentin-rock"
+       },
+       {
+        "text": "ventsislav-lihachov",
+        "link": "/pages/en_home_careers_employee-stories_ventsislav-lihachov"
+       },
+       {
+        "text": "venus-liu",
+        "link": "/pages/en_home_careers_employee-stories_venus-liu"
+       },
+       {
+        "text": "zuzanna-kokot",
+        "link": "/pages/en_home_careers_employee-stories_zuzanna-kokot"
+       }
+      ]
+     },
+     {
+      "text": "life-at-ad",
+      "link": "/pages/en_home_careers_life-at-ad"
+     },
+     {
+      "text": "north-american-candidate-sms-communications-notice",
+      "link": "/pages/en_home_careers_north-american-candidate-sms-communications-notice"
+     },
+     {
+      "text": "overview",
+      "link": "/pages/en_home_careers_overview"
+     },
+     {
+      "text": "search jobs",
+      "collapsed": true,
+      "items": [
+       {
+        "text": "(overview)",
+        "link": "/pages/en_home_careers_search-jobs"
+       },
+       {
+        "text": "recruitment-fraud-disclaimer",
+        "link": "/pages/en_home_careers_search-jobs_recruitment-fraud-disclaimer"
+       }
+      ]
+     },
+     {
+      "text": "talent-community",
+      "link": "/pages/en_home_careers_talent-community"
+     },
+     {
+      "text": "virtual-interview-instructions",
+      "link": "/pages/en_home_careers_virtual-interview-instructions"
+     },
+     {
+      "text": "voluntary-self-identification-of-disability",
+      "link": "/pages/en_home_careers_voluntary-self-identification-of-disability"
+     },
+     {
+      "text": "voluntary-self-identification-of-vevraa-status",
+      "link": "/pages/en_home_careers_voluntary-self-identification-of-vevraa-status"
+     }
+    ]
+   },
+   {
+    "text": "company",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "(overview)",
+      "link": "/pages/en_home_company"
+     },
+     {
+      "text": "avery dennison foundation",
+      "collapsed": true,
+      "items": [
+       {
+        "text": "(overview)",
+        "link": "/pages/en_home_company_avery-dennison-foundation"
+       },
+       {
+        "text": "corporate-social-responsibility-report",
+        "link": "/pages/en_home_company_avery-dennison-foundation_corporate-social-responsibility-report"
+       },
+       {
+        "text": "grantmaking",
+        "link": "/pages/en_home_company_avery-dennison-foundation_grantmaking"
+       }
+      ]
+     },
+     {
+      "text": "corporate venture capital program",
+      "collapsed": true,
+      "items": [
+       {
+        "text": "(overview)",
+        "link": "/pages/en_home_company_corporate-venture-capital-program"
+       },
+       {
+        "text": "portfolio-in-the-news",
+        "link": "/pages/en_home_company_corporate-venture-capital-program_portfolio-in-the-news"
+       }
+      ]
+     },
+     {
+      "text": "diversity",
+      "link": "/pages/en_home_company_diversity"
+     },
+     {
+      "text": "our-history",
+      "link": "/pages/en_home_company_our-history"
+     },
+     {
+      "text": "our leadership",
+      "collapsed": true,
+      "items": [
+       {
+        "text": "(overview)",
+        "link": "/pages/en_home_company_our-leadership"
+       },
+       {
+        "text": "danny-allouche",
+        "link": "/pages/en_home_company_our-leadership_danny-allouche"
+       },
+       {
+        "text": "deena-baker-nel",
+        "link": "/pages/en_home_company_our-leadership_deena-baker-nel"
+       },
+       {
+        "text": "deon-stander",
+        "link": "/pages/en_home_company_our-leadership_deon-stander"
+       },
+       {
+        "text": "francisco-melo",
+        "link": "/pages/en_home_company_our-leadership_francisco-melo"
+       },
+       {
+        "text": "greg-lovins",
+        "link": "/pages/en_home_company_our-leadership_greg-lovins"
+       },
+       {
+        "text": "ignacio-walker",
+        "link": "/pages/en_home_company_our-leadership_ignacio-walker"
+       },
+       {
+        "text": "isabela-galli",
+        "link": "/pages/en_home_company_our-leadership_isabela-galli"
+       },
+       {
+        "text": "johnny-gao",
+        "link": "/pages/en_home_company_our-leadership_johnny-gao"
+       },
+       {
+        "text": "mariana-rodriguez",
+        "link": "/pages/en_home_company_our-leadership_mariana-rodriguez"
+       },
+       {
+        "text": "michael-barton",
+        "link": "/pages/en_home_company_our-leadership_michael-barton"
+       },
+       {
+        "text": "michael-colarossi",
+        "link": "/pages/en_home_company_our-leadership_michael-colarossi"
+       },
+       {
+        "text": "ned-peverley",
+        "link": "/pages/en_home_company_our-leadership_ned-peverley"
+       },
+       {
+        "text": "nick-colisto",
+        "link": "/pages/en_home_company_our-leadership_nick-colisto"
+       },
+       {
+        "text": "pankaj-bhardwaj",
+        "link": "/pages/en_home_company_our-leadership_pankaj-bhardwaj"
+       },
+       {
+        "text": "pascale-wautelet",
+        "link": "/pages/en_home_company_our-leadership_pascale-wautelet"
+       },
+       {
+        "text": "srikar-kasarla",
+        "link": "/pages/en_home_company_our-leadership_srikar-kasarla"
+       }
+      ]
+     },
+     {
+      "text": "overview",
+      "link": "/pages/en_home_company_overview"
+     },
+     {
+      "text": "reports",
+      "collapsed": true,
+      "items": [
+       {
+        "text": "(overview)",
+        "link": "/pages/en_home_company_reports"
+       },
+       {
+        "text": "integrated-report",
+        "link": "/pages/en_home_company_reports_integrated-report"
+       }
+      ]
+     },
+     {
+      "text": "values",
+      "link": "/pages/en_home_company_values"
+     }
+    ]
+   },
+   {
+    "text": "contact us",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "(overview)",
+      "link": "/pages/en_home_contact-us"
+     },
+     {
+      "text": "business-conduct-guideline-directory",
+      "link": "/pages/en_home_contact-us_business-conduct-guideline-directory"
+     },
+     {
+      "text": "thank-you",
+      "link": "/pages/en_home_contact-us_thank-you"
+     }
+    ]
+   },
+   {
+    "text": "cookie policy",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "(overview)",
+      "link": "/pages/en_home_cookie-policy"
+     },
+     {
+      "text": "cookie-overview",
+      "link": "/pages/en_home_cookie-policy_cookie-overview"
+     }
+    ]
+   },
+   {
+    "text": "cybersecurity",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "(overview)",
+      "link": "/pages/en_home_cybersecurity"
+     }
+    ]
+   },
+   {
+    "text": "eu policy",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "(overview)",
+      "link": "/pages/en_home_eu-policy"
+     },
+     {
+      "text": "benefits-of-sustainability-compliance",
+      "link": "/pages/en_home_eu-policy_benefits-of-sustainability-compliance"
+     },
+     {
+      "text": "europes-waste-problem",
+      "link": "/pages/en_home_eu-policy_europes-waste-problem"
+     },
+     {
+      "text": "our-vision-more-sustainable-competitive-europe-connecting-physical-and-digital",
+      "link": "/pages/en_home_eu-policy_our-vision-more-sustainable-competitive-europe-connecting-physical-and-digital"
+     },
+     {
+      "text": "sustainable-supply-chains",
+      "link": "/pages/en_home_eu-policy_sustainable-supply-chains"
+     }
+    ]
+   },
+   {
+    "text": "gdpr",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "(overview)",
+      "link": "/pages/en_home_gdpr"
+     }
+    ]
+   },
+   {
+    "text": "global website directory",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "(overview)",
+      "link": "/pages/en_home_global-website-directory"
+     }
+    ]
+   },
+   {
+    "text": "home",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "(overview)",
+      "link": "/pages/en_home"
+     }
+    ]
+   },
+   {
+    "text": "industries",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "(overview)",
+      "link": "/pages/en_home_industries"
+     },
+     {
+      "text": "advertising",
+      "link": "/pages/en_home_industries_advertising"
+     },
+     {
+      "text": "advertising-and-promotion",
+      "link": "/pages/en_home_industries_advertising-and-promotion"
+     },
+     {
+      "text": "apparel",
+      "link": "/pages/en_home_industries_apparel"
+     },
+     {
+      "text": "apparel-branding-and-solutions",
+      "link": "/pages/en_home_industries_apparel-branding-and-solutions"
+     },
+     {
+      "text": "architecture-and-buildings",
+      "link": "/pages/en_home_industries_architecture-and-buildings"
+     },
+     {
+      "text": "automotive",
+      "link": "/pages/en_home_industries_automotive"
+     },
+     {
+      "text": "building-and-construction",
+      "link": "/pages/en_home_industries_building-and-construction"
+     },
+     {
+      "text": "consumer-packaged-goods",
+      "link": "/pages/en_home_industries_consumer-packaged-goods"
+     },
+     {
+      "text": "durable-goods-and-equipment",
+      "link": "/pages/en_home_industries_durable-goods-and-equipment"
+     },
+     {
+      "text": "durable-goods-and-equipment-labels",
+      "link": "/pages/en_home_industries_durable-goods-and-equipment-labels"
+     },
+     {
+      "text": "electronics-and-electrical",
+      "link": "/pages/en_home_industries_electronics-and-electrical"
+     },
+     {
+      "text": "food",
+      "link": "/pages/en_home_industries_food"
+     },
+     {
+      "text": "government",
+      "link": "/pages/en_home_industries_government"
+     },
+     {
+      "text": "logistics",
+      "link": "/pages/en_home_industries_logistics"
+     },
+     {
+      "text": "medical-and-healthcare",
+      "link": "/pages/en_home_industries_medical-and-healthcare"
+     },
+     {
+      "text": "optica-supply-chain-solutions",
+      "link": "/pages/en_home_industries_optica-supply-chain-solutions"
+     },
+     {
+      "text": "retail",
+      "link": "/pages/en_home_industries_retail"
+     },
+     {
+      "text": "rfid",
+      "link": "/pages/en_home_industries_rfid"
+     },
+     {
+      "text": "supply-chain",
+      "link": "/pages/en_home_industries_supply-chain"
+     },
+     {
+      "text": "supply-chain-and-logistics",
+      "link": "/pages/en_home_industries_supply-chain-and-logistics"
+     },
+     {
+      "text": "transportation",
+      "link": "/pages/en_home_industries_transportation"
+     }
+    ]
+   },
+   {
+    "text": "legal and privacy notices",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "(overview)",
+      "link": "/pages/en_home_legal-and-privacy-notices"
+     },
+     {
+      "text": "avery-dennison-general-terms-and-conditions-of-purchase",
+      "link": "/pages/en_home_legal-and-privacy-notices_avery-dennison-general-terms-and-conditions-of-purchase"
+     },
+     {
+      "text": "general-terms-and-conditions-of-purchase",
+      "link": "/pages/en_home_legal-and-privacy-notices_general-terms-and-conditions-of-purchase"
+     }
+    ]
+   },
+   {
+    "text": "making possible",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "(overview)",
+      "link": "/pages/en_home_making-possible"
+     }
+    ]
+   },
+   {
+    "text": "news",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "(overview)",
+      "link": "/pages/en_home_news"
+     },
+     {
+      "text": "company blog",
+      "collapsed": true,
+      "items": [
+       {
+        "text": "(overview)",
+        "link": "/pages/en_home_news_company-blog"
+       },
+       {
+        "text": "10-fave-automotive-restyling-projects-of-2024",
+        "link": "/pages/en_home_news_company-blog_10-fave-automotive-restyling-projects-of-2024"
+       },
+       {
+        "text": "22-reasons-employees-say-avery-dennison-is-a-great-place-to-work",
+        "link": "/pages/en_home_news_company-blog_22-reasons-employees-say-avery-dennison-is-a-great-place-to-work"
+       },
+       {
+        "text": "3rd-trafficjet-printer-for-bb-skilti-iceland",
+        "link": "/pages/en_home_news_company-blog_3rd-trafficjet-printer-for-bb-skilti-iceland"
+       },
+       {
+        "text": "50-years-of-reflective-solutions-in-brazil",
+        "link": "/pages/en_home_news_company-blog_50-years-of-reflective-solutions-in-brazil"
+       },
+       {
+        "text": "a-conversation-with-shruti-george",
+        "link": "/pages/en_home_news_company-blog_a-conversation-with-shruti-george"
+       },
+       {
+        "text": "adf-action-against-hunger",
+        "link": "/pages/en_home_news_company-blog_adf-action-against-hunger"
+       },
+       {
+        "text": "adf-celebrates-pride-and-partners-making-a-difference",
+        "link": "/pages/en_home_news_company-blog_adf-celebrates-pride-and-partners-making-a-difference"
+       },
+       {
+        "text": "adf-grantee-global-fund-for-children",
+        "link": "/pages/en_home_news_company-blog_adf-grantee-global-fund-for-children"
+       },
+       {
+        "text": "adf-scholars-demonstrate-education-access-in-action",
+        "link": "/pages/en_home_news_company-blog_adf-scholars-demonstrate-education-access-in-action"
+       },
+       {
+        "text": "adf-scholars-spotlight-august-2024",
+        "link": "/pages/en_home_news_company-blog_adf-scholars-spotlight-august-2024"
+       },
+       {
+        "text": "avery-dennison-and-employees-lend-a-hand-to-ukraine",
+        "link": "/pages/en_home_news_company-blog_avery-dennison-and-employees-lend-a-hand-to-ukraine"
+       },
+       {
+        "text": "avery-dennison-foundation-celebrates-international-womens-day",
+        "link": "/pages/en_home_news_company-blog_avery-dennison-foundation-celebrates-international-womens-day"
+       },
+       {
+        "text": "avery-dennison-foundation-grant-is-empowering-ai-leadership-for-women-across-asia",
+        "link": "/pages/en_home_news_company-blog_avery-dennison-foundation-grant-is-empowering-ai-leadership-for-women-across-asia"
+       },
+       {
+        "text": "avery-dennison-foundation-helps-kids-of-employees-achieve-their-dreams-of-higher-education",
+        "link": "/pages/en_home_news_company-blog_avery-dennison-foundation-helps-kids-of-employees-achieve-their-dreams-of-higher-education"
+       },
+       {
+        "text": "avery-dennison-foundation-invests-in-womens-empowerment",
+        "link": "/pages/en_home_news_company-blog_avery-dennison-foundation-invests-in-womens-empowerment"
+       },
+       {
+        "text": "avery-dennison-foundation-shares-new-strategy-address-global-challenges",
+        "link": "/pages/en_home_news_company-blog_avery-dennison-foundation-shares-new-strategy-address-global-challenges"
+       },
+       {
+        "text": "avery-dennison-helps-2-make-a-wish-kids-wishes-come-true",
+        "link": "/pages/en_home_news_company-blog_avery-dennison-helps-2-make-a-wish-kids-wishes-come-true"
+       },
+       {
+        "text": "avery-dennison-it-announces-2025-supplier-excellence-award-winners",
+        "link": "/pages/en_home_news_company-blog_avery-dennison-it-announces-2025-supplier-excellence-award-winners"
+       },
+       {
+        "text": "avery-dennison-north-america-sites-raise-over-500k-for-united-way",
+        "link": "/pages/en_home_news_company-blog_avery-dennison-north-america-sites-raise-over-500k-for-united-way"
+       },
+       {
+        "text": "avery-dennison-recognized-for-another-industry-first",
+        "link": "/pages/en_home_news_company-blog_avery-dennison-recognized-for-another-industry-first"
+       },
+       {
+        "text": "avery-dennison-reflective-solutions-enhances-safety-in-indias-first-hybrid-ambulance",
+        "link": "/pages/en_home_news_company-blog_avery-dennison-reflective-solutions-enhances-safety-in-indias-first-hybrid-ambulance"
+       },
+       {
+        "text": "brimos-produces-high-quality-overhead-guide-signs-with-ease-using-trafficjet-pro",
+        "link": "/pages/en_home_news_company-blog_brimos-produces-high-quality-overhead-guide-signs-with-ease-using-trafficjet-pro"
+       },
+       {
+        "text": "building-markets-an-adf-grantee",
+        "link": "/pages/en_home_news_company-blog_building-markets-an-adf-grantee"
+       },
+       {
+        "text": "celebrating-25-years-in-india",
+        "link": "/pages/en_home_news_company-blog_celebrating-25-years-in-india"
+       },
+       {
+        "text": "celebrating-earth-day-with-global-forest-generation",
+        "link": "/pages/en_home_news_company-blog_celebrating-earth-day-with-global-forest-generation"
+       },
+       {
+        "text": "celebrating-hispanic-heritage-month",
+        "link": "/pages/en_home_news_company-blog_celebrating-hispanic-heritage-month"
+       },
+       {
+        "text": "celebrating-the-2024-avery-dennison-foundation-leadership-excellence-awardees",
+        "link": "/pages/en_home_news_company-blog_celebrating-the-2024-avery-dennison-foundation-leadership-excellence-awardees"
+       },
+       {
+        "text": "choose-fluorescent-for-work-zone-signage",
+        "link": "/pages/en_home_news_company-blog_choose-fluorescent-for-work-zone-signage"
+       },
+       {
+        "text": "create-more-with-avery-dennison-top-25-supreme-wrapping-film-colors",
+        "link": "/pages/en_home_news_company-blog_create-more-with-avery-dennison-top-25-supreme-wrapping-film-colors"
+       },
+       {
+        "text": "design-your-dream-car-wrap-with-the-avery-dennison-car-wrap-visualizer",
+        "link": "/pages/en_home_news_company-blog_design-your-dream-car-wrap-with-the-avery-dennison-car-wrap-visualizer"
+       },
+       {
+        "text": "ecovias-launches-vertical-sign-center-with-trafficjet",
+        "link": "/pages/en_home_news_company-blog_ecovias-launches-vertical-sign-center-with-trafficjet"
+       },
+       {
+        "text": "expanding-the-discussion-on-work-zone-safety",
+        "link": "/pages/en_home_news_company-blog_expanding-the-discussion-on-work-zone-safety"
+       },
+       {
+        "text": "first-trafficjet-xpress-printer-installed-at-trafficsupply",
+        "link": "/pages/en_home_news_company-blog_first-trafficjet-xpress-printer-installed-at-trafficsupply"
+       },
+       {
+        "text": "first-trafficjet-xpress-printer-installed-in-france",
+        "link": "/pages/en_home_news_company-blog_first-trafficjet-xpress-printer-installed-in-france"
+       },
+       {
+        "text": "global-impact-for-iwd",
+        "link": "/pages/en_home_news_company-blog_global-impact-for-iwd"
+       },
+       {
+        "text": "global-pride-initiatives-adf",
+        "link": "/pages/en_home_news_company-blog_global-pride-initiatives-adf"
+       },
+       {
+        "text": "graphics-solutions-favorite-projects-of-q1-2025",
+        "link": "/pages/en_home_news_company-blog_graphics-solutions-favorite-projects-of-q1-2025"
+       },
+       {
+        "text": "graphics-solutions-favorite-projects-of-q2-2025",
+        "link": "/pages/en_home_news_company-blog_graphics-solutions-favorite-projects-of-q2-2025"
+       },
+       {
+        "text": "graphics-solutions-favorite-projects-of-q3-2025",
+        "link": "/pages/en_home_news_company-blog_graphics-solutions-favorite-projects-of-q3-2025"
+       },
+       {
+        "text": "graphics-solutions-favorite-projects-of-q4-2025",
+        "link": "/pages/en_home_news_company-blog_graphics-solutions-favorite-projects-of-q4-2025"
+       },
+       {
+        "text": "happy-pride-introducing-unite-employee-resource-group",
+        "link": "/pages/en_home_news_company-blog_happy-pride-introducing-unite-employee-resource-group"
+       },
+       {
+        "text": "helping-tourists-navigate-italy-with-vibrant-full-color-reflective-signs",
+        "link": "/pages/en_home_news_company-blog_helping-tourists-navigate-italy-with-vibrant-full-color-reflective-signs"
+       },
+       {
+        "text": "high-mast-signs-for-the-indian-oil-industry-go-digital",
+        "link": "/pages/en_home_news_company-blog_high-mast-signs-for-the-indian-oil-industry-go-digital"
+       },
+       {
+        "text": "how-it-shared-services-are-a-digital-metropolis-helping-companies-on-their-transformation-journey",
+        "link": "/pages/en_home_news_company-blog_how-it-shared-services-are-a-digital-metropolis-helping-companies-on-their-transformation-journey"
+       },
+       {
+        "text": "improving-roadway-safety-in-brazil-for-more-than-20-years",
+        "link": "/pages/en_home_news_company-blog_improving-roadway-safety-in-brazil-for-more-than-20-years"
+       },
+       {
+        "text": "international-standard-for-vehicle-markings-astm-d8514",
+        "link": "/pages/en_home_news_company-blog_international-standard-for-vehicle-markings-astm-d8514"
+       },
+       {
+        "text": "introducing-avery-dennison-black-employee-resource-group",
+        "link": "/pages/en_home_news_company-blog_introducing-avery-dennison-black-employee-resource-group"
+       },
+       {
+        "text": "introducing-avery-dennison-elevate-employee-resource-group",
+        "link": "/pages/en_home_news_company-blog_introducing-avery-dennison-elevate-employee-resource-group"
+       },
+       {
+        "text": "introducing-veterans-employee-resource-group",
+        "link": "/pages/en_home_news_company-blog_introducing-veterans-employee-resource-group"
+       },
+       {
+        "text": "inventing-the-future",
+        "link": "/pages/en_home_news_company-blog_inventing-the-future"
+       },
+       {
+        "text": "is-vehicle-customization-the-best-route-to-shop-growth",
+        "link": "/pages/en_home_news_company-blog_is-vehicle-customization-the-best-route-to-shop-growth"
+       },
+       {
+        "text": "labelexpo-americas-2024",
+        "link": "/pages/en_home_news_company-blog_labelexpo-americas-2024"
+       },
+       {
+        "text": "next-level-innovation-z2010-passes-the-ice-bucket-test",
+        "link": "/pages/en_home_news_company-blog_next-level-innovation-z2010-passes-the-ice-bucket-test"
+       },
+       {
+        "text": "nobilis-d-o-o-boosts-traffic-sign-production-trafficjet",
+        "link": "/pages/en_home_news_company-blog_nobilis-d-o-o-boosts-traffic-sign-production-trafficjet"
+       },
+       {
+        "text": "ol-1200-anti-dew-film-protecting-traffic-signs-in-the-uk",
+        "link": "/pages/en_home_news_company-blog_ol-1200-anti-dew-film-protecting-traffic-signs-in-the-uk"
+       },
+       {
+        "text": "ol-1200-anti-dew-film-protecting-traffic-signs-in-uk",
+        "link": "/pages/en_home_news_company-blog_ol-1200-anti-dew-film-protecting-traffic-signs-in-uk"
+       },
+       {
+        "text": "paving-the-path-to-continuous-modernization-and-business-value",
+        "link": "/pages/en_home_news_company-blog_paving-the-path-to-continuous-modernization-and-business-value"
+       },
+       {
+        "text": "pride-2022-meet-members-of-unite-kelly-ruffenach",
+        "link": "/pages/en_home_news_company-blog_pride-2022-meet-members-of-unite-kelly-ruffenach"
+       },
+       {
+        "text": "pride-2023-meet-members-of-unite-alice-li",
+        "link": "/pages/en_home_news_company-blog_pride-2023-meet-members-of-unite-alice-li"
+       },
+       {
+        "text": "pride-2023-meet-members-of-unite-florian-schwickert",
+        "link": "/pages/en_home_news_company-blog_pride-2023-meet-members-of-unite-florian-schwickert"
+       },
+       {
+        "text": "pride-2023-meet-members-of-unite-maria-ocampo",
+        "link": "/pages/en_home_news_company-blog_pride-2023-meet-members-of-unite-maria-ocampo"
+       },
+       {
+        "text": "pride-2023-meet-unite-ally-will-sandman",
+        "link": "/pages/en_home_news_company-blog_pride-2023-meet-unite-ally-will-sandman"
+       },
+       {
+        "text": "protect-traffic-signs-from-dew",
+        "link": "/pages/en_home_news_company-blog_protect-traffic-signs-from-dew"
+       },
+       {
+        "text": "protecting-traffic-signs-in-serbia-from-dew-ol-1200",
+        "link": "/pages/en_home_news_company-blog_protecting-traffic-signs-in-serbia-from-dew-ol-1200"
+       },
+       {
+        "text": "rooted-in-community-avery-dennison-brazil-is-sustaining-what-matters-most",
+        "link": "/pages/en_home_news_company-blog_rooted-in-community-avery-dennison-brazil-is-sustaining-what-matters-most"
+       },
+       {
+        "text": "safer-roads-safer-mobility",
+        "link": "/pages/en_home_news_company-blog_safer-roads-safer-mobility"
+       },
+       {
+        "text": "shop-profits-productivity-and-professionalism-get-a-big-boost",
+        "link": "/pages/en_home_news_company-blog_shop-profits-productivity-and-professionalism-get-a-big-boost"
+       },
+       {
+        "text": "shops-and-installers-in-the-news-13-avery-dennison-success-stories",
+        "link": "/pages/en_home_news_company-blog_shops-and-installers-in-the-news-13-avery-dennison-success-stories"
+       },
+       {
+        "text": "standing-still-is-going-backwards",
+        "link": "/pages/en_home_news_company-blog_standing-still-is-going-backwards"
+       },
+       {
+        "text": "tackling-tomorrows-top-business-challenges-with-two-simple-words",
+        "link": "/pages/en_home_news_company-blog_tackling-tomorrows-top-business-challenges-with-two-simple-words"
+       },
+       {
+        "text": "taking-command-of-color",
+        "link": "/pages/en_home_news_company-blog_taking-command-of-color"
+       },
+       {
+        "text": "the-future-of-ai-business-with-nick-colisto",
+        "link": "/pages/en_home_news_company-blog_the-future-of-ai-business-with-nick-colisto"
+       },
+       {
+        "text": "the-roadshow-that-transformed-buenos-aires",
+        "link": "/pages/en_home_news_company-blog_the-roadshow-that-transformed-buenos-aires"
+       },
+       {
+        "text": "top-10-supreme-wrapping-film-colors-2025",
+        "link": "/pages/en_home_news_company-blog_top-10-supreme-wrapping-film-colors-2025"
+       },
+       {
+        "text": "trafficjet-pro-finds-a-house-in-germany",
+        "link": "/pages/en_home_news_company-blog_trafficjet-pro-finds-a-house-in-germany"
+       },
+       {
+        "text": "trafficjet-pro-osburn-signs",
+        "link": "/pages/en_home_news_company-blog_trafficjet-pro-osburn-signs"
+       },
+       {
+        "text": "trafficjet-pro-speeds-up-production-at-industrias-saludes-in-spain",
+        "link": "/pages/en_home_news_company-blog_trafficjet-pro-speeds-up-production-at-industrias-saludes-in-spain"
+       },
+       {
+        "text": "trafficjet-pro-successfully-installed-at-nour-massah",
+        "link": "/pages/en_home_news_company-blog_trafficjet-pro-successfully-installed-at-nour-massah"
+       },
+       {
+        "text": "trafficjet-xpert-installed-at-medivia-kft-hungary",
+        "link": "/pages/en_home_news_company-blog_trafficjet-xpert-installed-at-medivia-kft-hungary"
+       },
+       {
+        "text": "updates-to-build-america-buy-america-requirements",
+        "link": "/pages/en_home_news_company-blog_updates-to-build-america-buy-america-requirements"
+       },
+       {
+        "text": "vehicle-safety-in-saudi-arabia-leveled-up-by-adopting-logo-conspicuity-tape",
+        "link": "/pages/en_home_news_company-blog_vehicle-safety-in-saudi-arabia-leveled-up-by-adopting-logo-conspicuity-tape"
+       },
+       {
+        "text": "voz-latina-employee-resource-group",
+        "link": "/pages/en_home_news_company-blog_voz-latina-employee-resource-group"
+       },
+       {
+        "text": "welsh-sign-manufacturer-speeds-up-productivity-with-trafficjet-pro",
+        "link": "/pages/en_home_news_company-blog_welsh-sign-manufacturer-speeds-up-productivity-with-trafficjet-pro"
+       },
+       {
+        "text": "what-to-look-for-in-a-color-change-and-full-vehicle-wrap",
+        "link": "/pages/en_home_news_company-blog_what-to-look-for-in-a-color-change-and-full-vehicle-wrap"
+       },
+       {
+        "text": "what-to-look-for-in-an-auto-window-film-ft-harold-nimtz",
+        "link": "/pages/en_home_news_company-blog_what-to-look-for-in-an-auto-window-film-ft-harold-nimtz"
+       },
+       {
+        "text": "what-would-stan-think-90-years-of-avery-dennison",
+        "link": "/pages/en_home_news_company-blog_what-would-stan-think-90-years-of-avery-dennison"
+       },
+       {
+        "text": "what-you-need-to-know-ppf-narayan-andrews",
+        "link": "/pages/en_home_news_company-blog_what-you-need-to-know-ppf-narayan-andrews"
+       },
+       {
+        "text": "winter-proof-your-vinyl-installs",
+        "link": "/pages/en_home_news_company-blog_winter-proof-your-vinyl-installs"
+       },
+       {
+        "text": "yungatha-expands-with-trafficjet-xpress",
+        "link": "/pages/en_home_news_company-blog_yungatha-expands-with-trafficjet-xpress"
+       }
+      ]
+     },
+     {
+      "text": "leadership perspectives",
+      "collapsed": true,
+      "items": [
+       {
+        "text": "(overview)",
+        "link": "/pages/en_home_news_leadership-perspectives"
+       },
+       {
+        "text": "julie-vargas",
+        "link": "/pages/en_home_news_leadership-perspectives_julie-vargas"
+       },
+       {
+        "text": "nick-colisto",
+        "link": "/pages/en_home_news_leadership-perspectives_nick-colisto"
+       },
+       {
+        "text": "nick-colisto / championing-collaboration",
+        "link": "/pages/en_home_news_leadership-perspectives_nick-colisto_championing-collaboration"
+       },
+       {
+        "text": "nick-colisto / cutting-through-complexity",
+        "link": "/pages/en_home_news_leadership-perspectives_nick-colisto_cutting-through-complexity"
+       },
+       {
+        "text": "nick-colisto / engineering-leadership-from-within",
+        "link": "/pages/en_home_news_leadership-perspectives_nick-colisto_engineering-leadership-from-within"
+       },
+       {
+        "text": "nick-colisto / execution-is-a-leadership-behavior-not-an-operational-task",
+        "link": "/pages/en_home_news_leadership-perspectives_nick-colisto_execution-is-a-leadership-behavior-not-an-operational-task"
+       },
+       {
+        "text": "nick-colisto / from-problem-solving-capability-building-ai",
+        "link": "/pages/en_home_news_leadership-perspectives_nick-colisto_from-problem-solving-capability-building-ai"
+       },
+       {
+        "text": "nick-colisto / how-it-shared-services-are-a-digital-metropolis-helping-companies-on-their-transformation-journey",
+        "link": "/pages/en_home_news_leadership-perspectives_nick-colisto_how-it-shared-services-are-a-digital-metropolis-helping-companies-on-their-transformation-journey"
+       },
+       {
+        "text": "nick-colisto / leading-change-in-the-digital-era",
+        "link": "/pages/en_home_news_leadership-perspectives_nick-colisto_leading-change-in-the-digital-era"
+       },
+       {
+        "text": "nick-colisto / living-our-values-through-technology",
+        "link": "/pages/en_home_news_leadership-perspectives_nick-colisto_living-our-values-through-technology"
+       },
+       {
+        "text": "nick-colisto / net-zero-it",
+        "link": "/pages/en_home_news_leadership-perspectives_nick-colisto_net-zero-it"
+       },
+       {
+        "text": "nick-colisto / paving-the-path-to-continuous-modernization-and-business-value",
+        "link": "/pages/en_home_news_leadership-perspectives_nick-colisto_paving-the-path-to-continuous-modernization-and-business-value"
+       },
+       {
+        "text": "nick-colisto / the-four-digital-experiences-powering-growth-and-efficiency",
+        "link": "/pages/en_home_news_leadership-perspectives_nick-colisto_the-four-digital-experiences-powering-growth-and-efficiency"
+       },
+       {
+        "text": "nick-colisto / the-future-of-ai-business-with-nick-colisto",
+        "link": "/pages/en_home_news_leadership-perspectives_nick-colisto_the-future-of-ai-business-with-nick-colisto"
+       },
+       {
+        "text": "nick-colisto / the-journey-to-high-road-leadership",
+        "link": "/pages/en_home_news_leadership-perspectives_nick-colisto_the-journey-to-high-road-leadership"
+       },
+       {
+        "text": "nick-colisto / the-strategic-advantages-of-inclusive-leadership-in-it",
+        "link": "/pages/en_home_news_leadership-perspectives_nick-colisto_the-strategic-advantages-of-inclusive-leadership-in-it"
+       },
+       {
+        "text": "nick-colisto / what-happens-when-you-put-exceptional-tools-in-the-hands-of-exceptional-people",
+        "link": "/pages/en_home_news_leadership-perspectives_nick-colisto_what-happens-when-you-put-exceptional-tools-in-the-hands-of-exceptional-people"
+       }
+      ]
+     },
+     {
+      "text": "press releases",
+      "collapsed": true,
+      "items": [
+       {
+        "text": "(overview)",
+        "link": "/pages/en_home_news_press-releases"
+       },
+       {
+        "text": "540-billion-global-food-waste-bill-exposed-for-2026",
+        "link": "/pages/en_home_news_press-releases_540-billion-global-food-waste-bill-exposed-for-2026"
+       },
+       {
+        "text": "RETHINK-retail-recognizes-julie-vargas",
+        "link": "/pages/en_home_news_press-releases_RETHINK-retail-recognizes-julie-vargas"
+       },
+       {
+        "text": "avery-dennison-acquires-catchpoint-ip",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-acquires-catchpoint-ip"
+       },
+       {
+        "text": "avery-dennison-acquires-rietveld",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-acquires-rietveld"
+       },
+       {
+        "text": "avery-dennison-acquires-textrace",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-acquires-textrace"
+       },
+       {
+        "text": "avery-dennison-and-the-premier-league-present-the-name-behind-the-numbers",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-and-the-premier-league-present-the-name-behind-the-numbers"
+       },
+       {
+        "text": "avery-dennison-and-walmart-collaborate-to-enhance-freshness-rfid",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-and-walmart-collaborate-to-enhance-freshness-rfid"
+       },
+       {
+        "text": "avery-dennison-and-wiliot-expand-strategic-partnership",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-and-wiliot-expand-strategic-partnership"
+       },
+       {
+        "text": "avery-dennison-announces-fourth-quarter-and-full-year-2021-results",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-announces-fourth-quarter-and-full-year-2021-results"
+       },
+       {
+        "text": "avery-dennison-announces-fourth-quarter-and-full-year-2022-results",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-announces-fourth-quarter-and-full-year-2022-results"
+       },
+       {
+        "text": "avery-dennison-announces-planned-ceo-succession",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-announces-planned-ceo-succession"
+       },
+       {
+        "text": "avery-dennison-announces-q1-2022-results",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-announces-q1-2022-results"
+       },
+       {
+        "text": "avery-dennison-announces-q1-2023-results",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-announces-q1-2023-results"
+       },
+       {
+        "text": "avery-dennison-announces-q1-2024-results",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-announces-q1-2024-results"
+       },
+       {
+        "text": "avery-dennison-announces-q1-2025-results",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-announces-q1-2025-results"
+       },
+       {
+        "text": "avery-dennison-announces-q1-2026-results",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-announces-q1-2026-results"
+       },
+       {
+        "text": "avery-dennison-announces-q2-2022-results",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-announces-q2-2022-results"
+       },
+       {
+        "text": "avery-dennison-announces-q2-2023-results",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-announces-q2-2023-results"
+       },
+       {
+        "text": "avery-dennison-announces-q2-2024-results",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-announces-q2-2024-results"
+       },
+       {
+        "text": "avery-dennison-announces-q2-2025-results",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-announces-q2-2025-results"
+       },
+       {
+        "text": "avery-dennison-announces-q3-2022-results",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-announces-q3-2022-results"
+       },
+       {
+        "text": "avery-dennison-announces-q3-2023-results",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-announces-q3-2023-results"
+       },
+       {
+        "text": "avery-dennison-announces-q3-2024-results",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-announces-q3-2024-results"
+       },
+       {
+        "text": "avery-dennison-announces-q3-2025-results",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-announces-q3-2025-results"
+       },
+       {
+        "text": "avery-dennison-announces-q4-and-full-year-2023-results",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-announces-q4-and-full-year-2023-results"
+       },
+       {
+        "text": "avery-dennison-announces-q4-and-full-year-2024-results",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-announces-q4-and-full-year-2024-results"
+       },
+       {
+        "text": "avery-dennison-announces-q4-and-full-year-2025-results",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-announces-q4-and-full-year-2025-results"
+       },
+       {
+        "text": "avery-dennison-announces-strategic-75-million-investment-in-wiliot-to-scale-physical-ai",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-announces-strategic-75-million-investment-in-wiliot-to-scale-physical-ai"
+       },
+       {
+        "text": "avery-dennison-commissions-europes-largest-concentrated-solar-thermal-platform-and-thermal-storage-unit-in-turnhout-belgium",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-commissions-europes-largest-concentrated-solar-thermal-platform-and-thermal-storage-unit-in-turnhout-belgium"
+       },
+       {
+        "text": "avery-dennison-completes-acquisition-of-meridians-flooring-business",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-completes-acquisition-of-meridians-flooring-business"
+       },
+       {
+        "text": "avery-dennison-earns-top-score-on-hrc-foundation-2022-corporate-equality-index",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-earns-top-score-on-hrc-foundation-2022-corporate-equality-index"
+       },
+       {
+        "text": "avery-dennison-expands-rfid-adoption-in-grocery-retail-industry",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-expands-rfid-adoption-in-grocery-retail-industry"
+       },
+       {
+        "text": "avery-dennison-fortifies-its-presence-in-india",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-fortifies-its-presence-in-india"
+       },
+       {
+        "text": "avery-dennison-invests-in-series-b-funding-of-3d-current-collectors-manufacturer-addionics",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-invests-in-series-b-funding-of-3d-current-collectors-manufacturer-addionics"
+       },
+       {
+        "text": "avery-dennison-it-announces-inaugural-supplier-excellence-award-winners",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-it-announces-inaugural-supplier-excellence-award-winners"
+       },
+       {
+        "text": "avery-dennison-joins-WBCSD",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-joins-WBCSD"
+       },
+       {
+        "text": "avery-dennison-launches-ad-identifresh",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-launches-ad-identifresh"
+       },
+       {
+        "text": "avery-dennison-launches-ad-stretch-accelerator-program",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-launches-ad-stretch-accelerator-program"
+       },
+       {
+        "text": "avery-dennison-materials-group-names-matthias-matt-liebert-as-general-manager-for-taylor-adhesives",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-materials-group-names-matthias-matt-liebert-as-general-manager-for-taylor-adhesives"
+       },
+       {
+        "text": "avery-dennison-names-deon-stander-president-and-chief-operating-officer",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-names-deon-stander-president-and-chief-operating-officer"
+       },
+       {
+        "text": "avery-dennison-names-presidents-for-two-business-segments",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-names-presidents-for-two-business-segments"
+       },
+       {
+        "text": "avery-dennison-names-ryan-yost-president-materials-group",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-names-ryan-yost-president-materials-group"
+       },
+       {
+        "text": "avery-dennison-names-senior-vice-president-and-general-manager-materials-group-na",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-names-senior-vice-president-and-general-manager-materials-group-na"
+       },
+       {
+        "text": "avery-dennison-opens-first-india-based-rfid-production-facility",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-opens-first-india-based-rfid-production-facility"
+       },
+       {
+        "text": "avery-dennison-partners-to-fund-innovation-with-emerald-technology-ventures",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-partners-to-fund-innovation-with-emerald-technology-ventures"
+       },
+       {
+        "text": "avery-dennison-scores-strategic-partnership-position-with-LaLiga",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-scores-strategic-partnership-position-with-LaLiga"
+       },
+       {
+        "text": "avery-dennison-signs-a-definitive-agreement-to-acquire-silver-crystal-group",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-signs-a-definitive-agreement-to-acquire-silver-crystal-group"
+       },
+       {
+        "text": "avery-dennison-signs-agreement-to-acquire-thermopatch",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-signs-agreement-to-acquire-thermopatch"
+       },
+       {
+        "text": "avery-dennison-to-acquire-meridians-flooring-business",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-to-acquire-meridians-flooring-business"
+       },
+       {
+        "text": "avery-dennison-to-invest-over-60-million-euros-in-expansion-in-europe",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-to-invest-over-60-million-euros-in-expansion-in-europe"
+       },
+       {
+        "text": "avery-dennison-to-reveal-how-rfid-is-revolutionizing-retail-nrf",
+        "link": "/pages/en_home_news_press-releases_avery-dennison-to-reveal-how-rfid-is-revolutionizing-retail-nrf"
+       },
+       {
+        "text": "basf-and-avery-dennison-collaborate-to-launch-acrylates-based-on-renewable-electricity",
+        "link": "/pages/en_home_news_press-releases_basf-and-avery-dennison-collaborate-to-launch-acrylates-based-on-renewable-electricity"
+       },
+       {
+        "text": "currys-rolls-out-electronic-shelf-edge-labelling",
+        "link": "/pages/en_home_news_press-releases_currys-rolls-out-electronic-shelf-edge-labelling"
+       },
+       {
+        "text": "electrified-with-avery-dennison",
+        "link": "/pages/en_home_news_press-releases_electrified-with-avery-dennison"
+       },
+       {
+        "text": "estimated-94-billion-dollar-meat-waste-bill-significant-retail-inventory-challenge",
+        "link": "/pages/en_home_news_press-releases_estimated-94-billion-dollar-meat-waste-bill-significant-retail-inventory-challenge"
+       },
+       {
+        "text": "fast-company-recognizes-avery-dennison-worlds-most-innovative-companies",
+        "link": "/pages/en_home_news_press-releases_fast-company-recognizes-avery-dennison-worlds-most-innovative-companies"
+       },
+       {
+        "text": "industry-first-rfid-label-recognized-by-apr-for-compatibility-with-pet-recycling-stream",
+        "link": "/pages/en_home_news_press-releases_industry-first-rfid-label-recognized-by-apr-for-compatibility-with-pet-recycling-stream"
+       },
+       {
+        "text": "new-cardinal-health-surgical-drape-features-avery-dennison-benehold-chg-adhesive-technology",
+        "link": "/pages/en_home_news_press-releases_new-cardinal-health-surgical-drape-features-avery-dennison-benehold-chg-adhesive-technology"
+       },
+       {
+        "text": "new-research-shines-a-light-on-grocery-shoppers-reactions-to-in-store-digitization",
+        "link": "/pages/en_home_news_press-releases_new-research-shines-a-light-on-grocery-shoppers-reactions-to-in-store-digitization"
+       },
+       {
+        "text": "online-shoppers-crave-control",
+        "link": "/pages/en_home_news_press-releases_online-shoppers-crave-control"
+       },
+       {
+        "text": "turning-potential-into-operational-success-avery-dennison-gets-set-for-retails-big-show",
+        "link": "/pages/en_home_news_press-releases_turning-potential-into-operational-success-avery-dennison-gets-set-for-retails-big-show"
+       },
+       {
+        "text": "unlocking-growth-and-sustainability",
+        "link": "/pages/en_home_news_press-releases_unlocking-growth-and-sustainability"
+       },
+       {
+        "text": "vestcom-research-reveals-the-power-of-in-store-media-maximizing-impact",
+        "link": "/pages/en_home_news_press-releases_vestcom-research-reveals-the-power-of-in-store-media-maximizing-impact"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "text": "our statement on the war in ukraine",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "(overview)",
+      "link": "/pages/en_home_our-statement-on-the-war-in-ukraine"
+     }
+    ]
+   },
+   {
+    "text": "recruitment privacy notices",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "(overview)",
+      "link": "/pages/en_home_recruitment-privacy-notices"
+     }
+    ]
+   },
+   {
+    "text": "technologies",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "(overview)",
+      "link": "/pages/en_home_technologies"
+     },
+     {
+      "text": "core-capabilities",
+      "link": "/pages/en_home_technologies_core-capabilities"
+     },
+     {
+      "text": "creative-showcase",
+      "link": "/pages/en_home_technologies_creative-showcase"
+     },
+     {
+      "text": "emerging-technologies",
+      "link": "/pages/en_home_technologies_emerging-technologies"
+     }
+    ]
+   },
+   {
+    "text": "unlocking food waste value report",
+    "collapsed": true,
+    "items": [
+     {
+      "text": "(overview)",
+      "link": "/pages/en_home_unlocking-food-waste-value-report"
+     },
+     {
+      "text": "connect-with-our-experts",
+      "link": "/pages/en_home_unlocking-food-waste-value-report_connect-with-our-experts"
+     },
+     {
+      "text": "share",
+      "link": "/pages/en_home_unlocking-food-waste-value-report_share"
+     }
+    ]
+   }
+  ]
+ }
+]

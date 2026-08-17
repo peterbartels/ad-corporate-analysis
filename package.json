@@ -1,0 +1,32 @@
+{
+  "name": "screenie",
+  "version": "1.0.0",
+  "description": "CLI to screenshot sitemap pages and build a deduplicated component library",
+  "type": "module",
+  "bin": {
+    "screenie": "./dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/cli.js",
+    "dev": "tsx src/cli.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.62.1",
+    "sitemapper": "^4.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "playwright"
+    ]
+  }
+}

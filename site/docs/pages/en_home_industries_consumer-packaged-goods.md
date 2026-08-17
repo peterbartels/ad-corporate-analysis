@@ -1,0 +1,34 @@
+---
+title: "consumer-packaged-goods"
+---
+
+<!-- generated: component composition analysis -->
+**Page:** [`/en/home/industries/consumer-packaged-goods`](/pages/en_home_industries_consumer-packaged-goods)  
+**Template cluster:** `17e750259f` (industry landing page)  
+*Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
+
+> **Template note:** this layout is shared by 4 pages:
+> - [`/en/home/industries/architecture-and-buildings`](/pages/en_home_industries_architecture-and-buildings)
+> - [`/en/home/industries/building-and-construction`](/pages/en_home_industries_building-and-construction)
+> - [`/en/home/industries/consumer-packaged-goods`](/pages/en_home_industries_consumer-packaged-goods)
+> - [`/en/home/industries/retail`](/pages/en_home_industries_retail)
+
+# Industry landing page — Architecture and buildings
+
+Standard "Industries" template: a centered title, a text-and-image introduction, a stack of product-category sections with deep links into brand sites, and a shared "Industry solutions from our businesses" box-button grid. Member pages: 4.
+
+1. [`richtext`](/components/richtext) — Centered H1 with the industry name. The page opens with a 100px top spacer (content-buffer) above it. Margin below: 50px (section-buffer).
+2. [`side-by-side`](/components/side-by-side) — Introduction: one or two paragraphs on the left, an industry mood photo on the right (2-column layout, text parbase + image parbase). Margin below: 50px (section-buffer).
+3. [`richtext`](/components/richtext) — Repeated product-category sections (6 on the representative page; count varies across member pages). Each section is an H2 category heading, a short description paragraph, and one or more underlined "product name >" links, often followed by a small "Regional sites available: BR | LATAM | APAC" locale link row. Sections are separated by 50px (section-buffer); 100px (content-buffer) after the last one, then a full-width black horizontal rule (spacer line--black).
+4. [`richtext`](/components/richtext) — H2 "Industry solutions from our businesses". Margin below: 50px (section-buffer).
+5. [`image-link-block`](/components/image-link-block) — Grid of 15 small white box-button cards (business name + circular arrow icon, 5 columns x 3 rows), each linking to an Avery Dennison business/brand website. The cards are shared experience fragments reused on every industry page. Margin below: 100px (content-buffer) to page end.
+
+## Vertical rhythm
+
+Spacing is driven by AEM spacer components: `section-buffer` = 5rem (80px) between related blocks, `content-buffer` = 10rem (160px) between major page zones and at the top/bottom of the page. The divider before the business grid is a spacer with `line--black` (1px full-width rule) plus content-buffer.
+
+## Screenshot
+
+Full-page capture at 1440px viewport width (header/footer cropped), scaled to 800px:
+
+<img src="/screens/en_home_industries_consumer-packaged-goods.webp" alt="Full-page screenshot of /en/home/industries/consumer-packaged-goods" loading="lazy" style="max-width:100%;border:1px solid var(--vp-c-divider);border-radius:6px;" />

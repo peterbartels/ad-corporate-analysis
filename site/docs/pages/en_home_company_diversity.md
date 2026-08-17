@@ -1,0 +1,32 @@
+---
+title: "diversity"
+---
+
+<!-- generated: component composition analysis -->
+**Page:** [`/en/home/company/diversity`](/pages/en_home_company_diversity)  
+**Template cluster:** `037bdbc85b` (diversity culture page)  
+*Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
+
+# Diversity culture page
+
+Editorial storytelling page alternating text/photo rows, a brand video, a dark awards band and a closing illustrated section.
+
+1. [`richtext`](/components/richtext) — centered H1 "Diversity". Margin below: 50px (section-buffer, 5rem).
+2. [`side-by-side`](/components/side-by-side) — "Every voice. Every day." heading and paragraphs left, employee photo right. Margin below: 100px (content-buffer, 10rem).
+3. [`side-by-side`](/components/side-by-side) — photo left, large statement text right. Margin below: 100px (content-buffer).
+4. [`side-by-side`](/components/side-by-side) — large statement text left, paired photos right. Margin below: 100px (content-buffer).
+5. [`video-block`](/components/video-block) — responsive YouTube embed (animated brand video). Margin below: 50px (section-buffer).
+6. [`richtext`](/components/richtext) — two text columns ("Global awareness and recognition" / "Regional DEI councils"). Margin below: 100px (content-buffer).
+7. [`richtext`](/components/richtext) — dark band heading "Living our values: Our award-winning teams" + intro. Margin below: 50px (section-buffer).
+8. [`categories-block`](/components/categories-block) — trophy badge with a 3-column grid of ~8 award name + source entries on the dark band. Margin below: 100px (content-buffer).
+9. [`richtext`](/components/richtext) — light band "Employee resource groups" heading, paragraphs and ERG category list. Margin below: ~48px (visual estimate).
+10. [`image`](/components/image) — full-width diverse-crowd illustration closing the page. Margin below: ~0px (flush to page end).
+
+## Vertical rhythm
+content-buffer 10rem/100px between story rows and bands; section-buffer 5rem/50px inside bands between heading and content.
+
+## Screenshot
+
+Full-page capture at 1440px viewport width (header/footer cropped), scaled to 800px:
+
+<img src="/screens/en_home_company_diversity.webp" alt="Full-page screenshot of /en/home/company/diversity" loading="lazy" style="max-width:100%;border:1px solid var(--vp-c-divider);border-radius:6px;" />

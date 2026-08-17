@@ -1,0 +1,294 @@
+/* LIGHT */
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-Light.eot');
+  src: url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-Light.woff2") format("woff2"),
+  url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-Light.otf") format("opentype");
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-LightOblique.eot');
+  src: url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-LightOblique.woff2") format("woff2"),
+  url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-LightOblique.otf") format("opentype");
+  font-style: italic;
+  font-weight: 300;
+}
+
+/* NORMAL */
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-Book.eot');
+  src: url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-Book.woff2") format("woff2"),
+  url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-Book.otf") format("opentype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-BookOblique.eot');
+  src: url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-BookOblique.woff2") format("woff2"),
+  url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-BookOblique.otf") format("opentype");
+  font-style: italic;
+  font-weight: 400;
+}
+
+/* MEDIUM */
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-Medium.eot');
+  src: url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-Medium.woff2") format("woff2"),
+  url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-Medium.otf") format("opentype");
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-MediumOblique.eot');
+  src: url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-MediumOblique.woff2") format("woff2"),
+  url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-MediumOblique.otf") format("opentype");
+  font-style: italic;
+  font-weight: 500;
+}
+
+/* SEMI BOLD */
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-SemiBold.eot');
+  src: url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-SemiBold.woff2") format("woff2"),
+  url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-SemiBold.otf") format("opentype");
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-SemiBoldOblique.eot');
+  src: url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-SemiBoldOblique.woff2") format("woff2"),
+  url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-SemiBoldOblique.otf") format("opentype");
+  font-style: italic;
+  font-weight: 600;
+}
+
+/* BOLD */
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-Bold.eot');
+  src: url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-Bold.woff2") format("woff2"),
+  url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-Bold.otf") format("opentype");
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-BoldOblique.eot');
+  src: url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-BoldOblique.woff2") format("woff2"),
+  url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-BoldOblique.otf") format("opentype");
+  font-style: italic;
+  font-weight: 700;
+}
+
+/* EXTRA BOLD */
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-ExtraBold.eot');
+  src: url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-ExtraBold.woff2") format("woff2"),
+  url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-ExtraBold.otf") format("opentype");
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-ExtraBoldOblique.eot');
+  src: url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-ExtraBoldOblique.woff2") format("woff2"),
+  url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-ExtraBoldOblique.otf") format("opentype");
+  font-style: italic;
+  font-weight: 800;
+}
+
+/* BLACK */
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-Black.eot');
+  src: url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-Black.woff2") format("woff2"),
+  url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-Black.otf") format("opentype");
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-BlackOblique.eot');
+  src: url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-BlackOblique.woff2") format("woff2"),
+  url("../../avery-responsive/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-BlackOblique.otf") format("opentype");
+  font-style: italic;
+  font-weight: 900;
+}
+
+/* LIGHT */
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-Light.eot');
+  src: url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-Light.woff2") format("woff2"),
+  url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-Light.otf") format("opentype");
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-LightOblique.eot');
+  src: url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-LightOblique.woff2") format("woff2"),
+  url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-LightOblique.otf") format("opentype");
+  font-style: italic;
+  font-weight: 300;
+}
+
+/* NORMAL */
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-Book.eot');
+  src: url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-Book.woff2") format("woff2"),
+  url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-Book.otf") format("opentype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-BookOblique.eot');
+  src: url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-BookOblique.woff2") format("woff2"),
+  url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-BookOblique.otf") format("opentype");
+  font-style: italic;
+  font-weight: 400;
+}
+
+/* MEDIUM */
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-Medium.eot');
+  src: url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-Medium.woff2") format("woff2"),
+  url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-Medium.otf") format("opentype");
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-MediumOblique.eot');
+  src: url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-MediumOblique.woff2") format("woff2"),
+  url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-MediumOblique.otf") format("opentype");
+  font-style: italic;
+  font-weight: 500;
+}
+
+/* SEMI BOLD */
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-SemiBold.eot');
+  src: url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-SemiBold.woff2") format("woff2"),
+  url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-SemiBold.otf") format("opentype");
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-SemiBoldOblique.eot');
+  src: url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-SemiBoldOblique.woff2") format("woff2"),
+  url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-SemiBoldOblique.otf") format("opentype");
+  font-style: italic;
+  font-weight: 600;
+}
+
+/* BOLD */
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-Bold.eot');
+  src: url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-Bold.woff2") format("woff2"),
+  url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-Bold.otf") format("opentype");
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-BoldOblique.eot');
+  src: url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-BoldOblique.woff2") format("woff2"),
+  url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-BoldOblique.otf") format("opentype");
+  font-style: italic;
+  font-weight: 700;
+}
+
+/* EXTRA BOLD */
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-ExtraBold.eot');
+  src: url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-ExtraBold.woff2") format("woff2"),
+  url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-ExtraBold.otf") format("opentype");
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-ExtraBoldOblique.eot');
+  src: url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-ExtraBoldOblique.woff2") format("woff2"),
+  url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-ExtraBoldOblique.otf") format("opentype");
+  font-style: italic;
+  font-weight: 800;
+}
+
+/* BLACK */
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-Black.eot');
+  src: url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-Black.woff2") format("woff2"),
+  url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-Black.otf") format("opentype");
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: "Aktifo";
+  src: url('../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/EOT/Aktifo-A-BlackOblique.eot');
+  src: url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/WOFF2/Aktifo-A-BlackOblique.woff2") format("woff2"),
+  url("../../avery-mactac/clientlibs/avery-responsive/fonts-switcher/fonts-definition/resources/fonts/OTF/Aktifo-A-BlackOblique.otf") format("opentype");
+  font-style: italic;
+  font-weight: 900;
+}
+
+.avd-legacy,
+.avd,
+.region-selector,
+.avd .video-player .lpm-video,
+.avd .image a .overlay .overlay-content,
+.spotlight-banner,
+.avd .horizontal-image-container figcaption,
+.avd footer.footer-redesign,
+.events-component,
+.case-study-section,
+.avd-legacy .globalheader,
+.avd .responsive-header,
+.avd h1,
+.avd h2,
+.avd h3,
+.avd h4,
+.avd h5,
+.avd h6,
+.avd .h1,
+.avd .h2,
+.avd .h3,
+.avd .h4,
+.avd .h5,
+.avd .h6 {
+  font-family: "Aktifo", sans-serif;
+}
+
+
