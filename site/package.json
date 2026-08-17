@@ -1,7 +1,7 @@
 {
   "name": "ad-component-inventory",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "sync": "python3 scripts/images.py && node scripts/sync.mjs",
