@@ -2,7 +2,7 @@
 title: "careers"
 ---
 
-**Page:** [`/en/home/careers`](/pages/en_home_careers)
+**Page:** [/en/home/careers](https://www.averydennison.com/en/home/careers.html)
 
 # Structural node page
 

@@ -3,7 +3,7 @@ title: "expanding-the-discussion-on-work-zone-safety"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/expanding-the-discussion-on-work-zone-safety`](/pages/en_home_news_company-blog_expanding-the-discussion-on-work-zone-safety)  
+**Page:** [/en/home/news/company-blog/expanding-the-discussion-on-work-zone-safety](https://www.averydennison.com/en/home/news/company-blog/expanding-the-discussion-on-work-zone-safety.html)  
 **Template cluster:** `2304cbfd86` (company blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

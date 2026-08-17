@@ -3,7 +3,7 @@ title: "what-to-look-for-in-a-color-change-and-full-vehicle-wrap"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/what-to-look-for-in-a-color-change-and-full-vehicle-wrap`](/pages/en_home_news_company-blog_what-to-look-for-in-a-color-change-and-full-vehicle-wrap)  
+**Page:** [/en/home/news/company-blog/what-to-look-for-in-a-color-change-and-full-vehicle-wrap](https://www.averydennison.com/en/home/news/company-blog/what-to-look-for-in-a-color-change-and-full-vehicle-wrap.html)  
 **Template cluster:** `29f8cd76a5` (blog Q&A article with videos and images)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

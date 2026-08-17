@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/adf-grantee-global-fund-for-children`  
+**Page:** [/en/home/news/company-blog/adf-grantee-global-fund-for-children](https://www.averydennison.com/en/home/news/company-blog/adf-grantee-global-fund-for-children.html)  
 **Template cluster:** `3aa29d034e` (company blog article (with image pair))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -3,7 +3,7 @@ title: "paving-the-path-to-continuous-modernization-and-business-value"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/leadership-perspectives/nick-colisto/paving-the-path-to-continuous-modernization-and-business-value`](/pages/en_home_news_leadership-perspectives_nick-colisto_paving-the-path-to-continuous-modernization-and-business-value)  
+**Page:** [/en/home/news/leadership-perspectives/nick-colisto/paving-the-path-to-continuous-modernization-and-business-value](https://www.averydennison.com/en/home/news/leadership-perspectives/nick-colisto/paving-the-path-to-continuous-modernization-and-business-value.html)  
 **Template cluster:** `bc75f8061e` (leadership perspectives Q&A article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

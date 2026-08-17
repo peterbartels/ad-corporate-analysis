@@ -3,7 +3,7 @@ title: "estimated-94-billion-dollar-meat-waste-bill-significant-retail-inventory
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/press-releases/estimated-94-billion-dollar-meat-waste-bill-significant-retail-inventory-challenge`](/pages/en_home_news_press-releases_estimated-94-billion-dollar-meat-waste-bill-significant-retail-inventory-challenge)  
+**Page:** [/en/home/news/press-releases/estimated-94-billion-dollar-meat-waste-bill-significant-retail-inventory-challenge](https://www.averydennison.com/en/home/news/press-releases/estimated-94-billion-dollar-meat-waste-bill-significant-retail-inventory-challenge.html)  
 **Template cluster:** `05aee03d80` (press release - research report)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

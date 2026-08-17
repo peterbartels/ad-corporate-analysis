@@ -3,7 +3,7 @@ title: "andre-salmazzo"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/careers/employee-stories/andre-salmazzo`](/pages/en_home_careers_employee-stories_andre-salmazzo)  
+**Page:** [/en/home/careers/employee-stories/andre-salmazzo](https://www.averydennison.com/en/home/careers/employee-stories/andre-salmazzo.html)  
 **Template cluster:** `d0a2c80168` (employee story article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

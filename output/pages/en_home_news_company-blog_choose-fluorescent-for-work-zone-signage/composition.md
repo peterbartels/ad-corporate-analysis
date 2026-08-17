@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/choose-fluorescent-for-work-zone-signage`  
+**Page:** [/en/home/news/company-blog/choose-fluorescent-for-work-zone-signage](https://www.averydennison.com/en/home/news/company-blog/choose-fluorescent-for-work-zone-signage.html)  
 **Template cluster:** `050884a638` (company blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -3,7 +3,7 @@ title: "legal-and-privacy-notices"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/legal-and-privacy-notices`](/pages/en_home_legal-and-privacy-notices)  
+**Page:** [/en/home/legal-and-privacy-notices](https://www.averydennison.com/en/home/legal-and-privacy-notices.html)  
 **Template cluster:** `6cf015440a` (legal-document)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

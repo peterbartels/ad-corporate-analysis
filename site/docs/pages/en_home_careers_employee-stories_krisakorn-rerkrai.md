@@ -3,7 +3,7 @@ title: "krisakorn-rerkrai"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/careers/employee-stories/krisakorn-rerkrai`](/pages/en_home_careers_employee-stories_krisakorn-rerkrai)  
+**Page:** [/en/home/careers/employee-stories/krisakorn-rerkrai](https://www.averydennison.com/en/home/careers/employee-stories/krisakorn-rerkrai.html)  
 **Template cluster:** `b4a177557c` (employee story article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

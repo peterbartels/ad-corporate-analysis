@@ -3,7 +3,7 @@ title: "avery-dennison-foundation-invests-in-womens-empowerment"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/avery-dennison-foundation-invests-in-womens-empowerment`](/pages/en_home_news_company-blog_avery-dennison-foundation-invests-in-womens-empowerment)  
+**Page:** [/en/home/news/company-blog/avery-dennison-foundation-invests-in-womens-empowerment](https://www.averydennison.com/en/home/news/company-blog/avery-dennison-foundation-invests-in-womens-empowerment.html)  
 **Template cluster:** `51b53f6c90` (company blog article (standfirst, text-only body))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

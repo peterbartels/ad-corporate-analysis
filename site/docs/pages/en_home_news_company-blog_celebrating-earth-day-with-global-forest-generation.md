@@ -3,7 +3,7 @@ title: "celebrating-earth-day-with-global-forest-generation"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/celebrating-earth-day-with-global-forest-generation`](/pages/en_home_news_company-blog_celebrating-earth-day-with-global-forest-generation)  
+**Page:** [/en/home/news/company-blog/celebrating-earth-day-with-global-forest-generation](https://www.averydennison.com/en/home/news/company-blog/celebrating-earth-day-with-global-forest-generation.html)  
 **Template cluster:** `22cd1ce55a` (company blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

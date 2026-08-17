@@ -8,6 +8,12 @@ The workhorse body-copy block: headings, paragraphs, bold datelines, quotes, bul
 
 > **Migration notes:** Source: AEM text component. Analysts observed link-directory pages authored as richtext (report archives, document directories); consider migrating those to table or a dedicated link-list type during content migration.
 
+## Example
+
+![Richtext Block example — /en/home](examples/richtext.png)
+
+*Captured live from [/en/home](https://www.averydennison.com/en/home.html) — see the [page composition](../pages/en_home/composition.md).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

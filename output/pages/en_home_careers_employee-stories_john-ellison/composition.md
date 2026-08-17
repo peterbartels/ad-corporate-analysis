@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/careers/employee-stories/john-ellison`  
+**Page:** [/en/home/careers/employee-stories/john-ellison](https://www.averydennison.com/en/home/careers/employee-stories/john-ellison.html)  
 **Template cluster:** `173339f494` (employee story article (no closing image))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

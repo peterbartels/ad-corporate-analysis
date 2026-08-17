@@ -3,7 +3,7 @@ title: "portfolio-in-the-news"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/company/corporate-venture-capital-program/portfolio-in-the-news`](/pages/en_home_company_corporate-venture-capital-program_portfolio-in-the-news)  
+**Page:** [/en/home/company/corporate-venture-capital-program/portfolio-in-the-news](https://www.averydennison.com/en/home/company/corporate-venture-capital-program/portfolio-in-the-news.html)  
 **Template cluster:** `7a956f4693` (news link index page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/company/avery-dennison-foundation`  
+**Page:** [/en/home/company/avery-dennison-foundation](https://www.averydennison.com/en/home/company/avery-dennison-foundation.html)  
 **Template cluster:** `04314f2a12` (foundation overview landing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

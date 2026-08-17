@@ -6,6 +6,12 @@
 
 Quick-link navigation band in two observed shapes: a row of icon quick links to key sections (Businesses / Reports / Sustainability / About) and a horizontal anchor-link bar jumping to page sections (#impact, #grantmaking, ...) with an active state.
 
+## Example
+
+![On-page Navigation example — /en/home](examples/on-page-navigation.png)
+
+*Captured live from [/en/home](https://www.averydennison.com/en/home.html) — see the [page composition](../pages/en_home/composition.md).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

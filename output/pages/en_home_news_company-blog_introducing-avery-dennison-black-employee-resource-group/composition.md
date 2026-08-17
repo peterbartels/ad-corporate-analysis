@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/introducing-avery-dennison-black-employee-resource-group`  
+**Page:** [/en/home/news/company-blog/introducing-avery-dennison-black-employee-resource-group](https://www.averydennison.com/en/home/news/company-blog/introducing-avery-dennison-black-employee-resource-group.html)  
 **Template cluster:** `4491b47f94` (blog-article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

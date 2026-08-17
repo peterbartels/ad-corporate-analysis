@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog`  
+**Page:** [/en/home/news/company-blog](https://www.averydennison.com/en/home/news/company-blog.html)  
 **Template cluster:** `37258e001c` (blog listing)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

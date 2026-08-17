@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/press-releases/avery-dennison-and-the-premier-league-present-the-name-behind-the-numbers`  
+**Page:** [/en/home/news/press-releases/avery-dennison-and-the-premier-league-present-the-name-behind-the-numbers](https://www.averydennison.com/en/home/news/press-releases/avery-dennison-and-the-premier-league-present-the-name-behind-the-numbers.html)  
 **Template cluster:** `f77839e15d` (press release (compact corporate announcement))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

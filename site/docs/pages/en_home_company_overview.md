@@ -3,7 +3,7 @@ title: "overview"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/company/overview`](/pages/en_home_company_overview)  
+**Page:** [/en/home/company/overview](https://www.averydennison.com/en/home/company/overview.html)  
 **Template cluster:** `98c65f1042` (company overview landing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

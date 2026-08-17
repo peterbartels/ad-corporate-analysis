@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/trafficjet-pro-speeds-up-production-at-industrias-saludes-in-spain`  
+**Page:** [/en/home/news/company-blog/trafficjet-pro-speeds-up-production-at-industrias-saludes-in-spain](https://www.averydennison.com/en/home/news/company-blog/trafficjet-pro-speeds-up-production-at-industrias-saludes-in-spain.html)  
 **Template cluster:** `291d6ac96b` (company blog article (legacy skeleton, inline image))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

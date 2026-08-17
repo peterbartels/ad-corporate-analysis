@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/happy-pride-introducing-unite-employee-resource-group`  
+**Page:** [/en/home/news/company-blog/happy-pride-introducing-unite-employee-resource-group](https://www.averydennison.com/en/home/news/company-blog/happy-pride-introducing-unite-employee-resource-group.html)  
 **Template cluster:** `f834a28060` (Blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

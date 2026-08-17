@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/press-releases/avery-dennison-acquires-rietveld`  
+**Page:** [/en/home/news/press-releases/avery-dennison-acquires-rietveld](https://www.averydennison.com/en/home/news/press-releases/avery-dennison-acquires-rietveld.html)  
 **Template cluster:** `967affaadc` (press release (acquisition with acquired-company boilerplate))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

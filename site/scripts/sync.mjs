@@ -7,7 +7,7 @@
  *  - docs/pages/index.md         (page index grouped by site section)
  *  - docs/.vitepress/sidebar.json
  */
-import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 'node:fs'
+import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync, copyFileSync } from 'node:fs'
 import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
@@ -52,6 +52,13 @@ function linkPagePaths(md) {
   })
 }
 const esc = (s) => s.replace(/"/g, '\\"')
+// Component example screenshots: output/components/examples/<name>.png -> docs/public/component-examples/
+// and rewrite their markdown references before the generic transforms run.
+function linkExamples(md) {
+  return md
+    .replace(/\]\(examples\//g, '](/component-examples/')
+    .replace(/\]\(\.\.\/pages\/([a-zA-Z0-9_-]+)\/composition\.md\)/g, '](/pages/$1)')
+}
 // Escape `<` outside code spans/fences so Vue doesn't parse "array<object>" etc. as HTML
 function escapeAngles(md) {
   let inFence = false
@@ -93,9 +100,20 @@ Full-page capture at 1440px viewport width (header/footer cropped), scaled to 80
 
 // ---------- component docs ----------
 mkdirSync(join(DOCS, 'components'), { recursive: true })
+const examplesDir = join(OUT, 'components', 'examples')
+const examplesDest = join(DOCS, 'public', 'component-examples')
+let exampleCount = 0
+if (existsSync(examplesDir)) {
+  mkdirSync(examplesDest, { recursive: true })
+  for (const f of readdirSync(examplesDir)) {
+    if (!/\.(png|webp|jpe?g)$/i.test(f)) continue
+    copyFileSync(join(examplesDir, f), join(examplesDest, f))
+    exampleCount++
+  }
+}
 for (const name of componentNames) {
   let md = readFileSync(join(OUT, 'components', name + '.md'), 'utf8')
-  md = linkPagePaths(escapeAngles(md))
+  md = linkPagePaths(escapeAngles(linkExamples(md)))
   const title = (md.match(/^# (.+)$/m) || [null, name])[1]
   writeFileSync(join(DOCS, 'components', name + '.md'), `---\ntitle: "${esc(title)}"\n---\n\n${md.trim()}\n`)
 }
@@ -170,4 +188,4 @@ const sidebar = [
 ]
 writeFileSync(join(DOCS, '.vitepress', 'sidebar.json'), JSON.stringify(sidebar, null, 1))
 
-console.log(`sync: ${componentNames.length} components, ${pageSlugs.length} pages, sidebar written`)
+console.log(`sync: ${componentNames.length} components (${exampleCount} example images), ${pageSlugs.length} pages, sidebar written`)

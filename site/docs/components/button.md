@@ -10,6 +10,12 @@ title: "Button"
 
 Standalone pill-style button/link, in primary red, secondary outline and dark/black variants. Supports in-page anchor targets and an optional small sidebar heading (e.g. 'Related') rendered above it.
 
+## Example
+
+![Button example — /en/home/careers/overview](/component-examples/button.png)
+
+*Captured live from [/en/home/careers/overview](https://www.averydennison.com/en/home/careers/overview.html) — see the [page composition](/pages/en_home_careers_overview).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

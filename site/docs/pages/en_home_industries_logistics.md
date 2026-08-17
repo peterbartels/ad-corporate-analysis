@@ -3,7 +3,7 @@ title: "logistics"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/industries/logistics`](/pages/en_home_industries_logistics)  
+**Page:** [/en/home/industries/logistics](https://www.averydennison.com/en/home/industries/logistics.html)  
 **Template cluster:** `66ee72a4fb` (industry landing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

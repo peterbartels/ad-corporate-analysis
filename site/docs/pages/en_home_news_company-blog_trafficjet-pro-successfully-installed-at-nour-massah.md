@@ -3,7 +3,7 @@ title: "trafficjet-pro-successfully-installed-at-nour-massah"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/trafficjet-pro-successfully-installed-at-nour-massah`](/pages/en_home_news_company-blog_trafficjet-pro-successfully-installed-at-nour-massah)  
+**Page:** [/en/home/news/company-blog/trafficjet-pro-successfully-installed-at-nour-massah](https://www.averydennison.com/en/home/news/company-blog/trafficjet-pro-successfully-installed-at-nour-massah.html)  
 **Template cluster:** `f897959cd1` (company blog article (standfirst variant))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

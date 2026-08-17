@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/what-you-need-to-know-ppf-narayan-andrews`  
+**Page:** [/en/home/news/company-blog/what-you-need-to-know-ppf-narayan-andrews](https://www.averydennison.com/en/home/news/company-blog/what-you-need-to-know-ppf-narayan-andrews.html)  
 **Template cluster:** `42be72a662` (company blog article (Q&A with inline images, image pair and video))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

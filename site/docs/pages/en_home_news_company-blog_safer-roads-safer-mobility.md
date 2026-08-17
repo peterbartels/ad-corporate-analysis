@@ -3,7 +3,7 @@ title: "safer-roads-safer-mobility"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/safer-roads-safer-mobility`](/pages/en_home_news_company-blog_safer-roads-safer-mobility)  
+**Page:** [/en/home/news/company-blog/safer-roads-safer-mobility](https://www.averydennison.com/en/home/news/company-blog/safer-roads-safer-mobility.html)  
 **Template cluster:** `2304cbfd86` (company blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

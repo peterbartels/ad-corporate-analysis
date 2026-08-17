@@ -8,6 +8,12 @@ Vertical text-image teaser cards (observed: 2 side by side on the homepage) with
 
 > **Migration notes:** DEPT vocabulary also lists 'tile-list'; not observed separately in this inventory — this block already models the list.
 
+## Example
+
+![Tiles example — /en/home](examples/tile.png)
+
+*Captured live from [/en/home](https://www.averydennison.com/en/home.html) — see the [page composition](../pages/en_home/composition.md).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

@@ -3,7 +3,7 @@ title: "jolanta-wojciechowska"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/careers/employee-stories/jolanta-wojciechowska`](/pages/en_home_careers_employee-stories_jolanta-wojciechowska)  
+**Page:** [/en/home/careers/employee-stories/jolanta-wojciechowska](https://www.averydennison.com/en/home/careers/employee-stories/jolanta-wojciechowska.html)  
 **Template cluster:** `6c167a581e` (employee story article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/leadership-perspectives/nick-colisto/net-zero-it`  
+**Page:** [/en/home/news/leadership-perspectives/nick-colisto/net-zero-it](https://www.averydennison.com/en/home/news/leadership-perspectives/nick-colisto/net-zero-it.html)  
 **Template cluster:** `99d39e8ad7` (leadership perspectives article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

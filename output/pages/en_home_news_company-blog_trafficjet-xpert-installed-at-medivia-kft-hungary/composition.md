@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/trafficjet-xpert-installed-at-medivia-kft-hungary`  
+**Page:** [/en/home/news/company-blog/trafficjet-xpert-installed-at-medivia-kft-hungary](https://www.averydennison.com/en/home/news/company-blog/trafficjet-xpert-installed-at-medivia-kft-hungary.html)  
 **Template cluster:** `51b53f6c90` (company blog article (standfirst, text-only body))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

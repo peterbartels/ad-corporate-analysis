@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/press-releases/unlocking-growth-and-sustainability`  
+**Page:** [/en/home/news/press-releases/unlocking-growth-and-sustainability](https://www.averydennison.com/en/home/news/press-releases/unlocking-growth-and-sustainability.html)  
 **Template cluster:** `696c712cbf` (press release - short announcement)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

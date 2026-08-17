@@ -3,7 +3,7 @@ title: "graphics-solutions-favorite-projects-of-q3-2025"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/graphics-solutions-favorite-projects-of-q3-2025`](/pages/en_home_news_company-blog_graphics-solutions-favorite-projects-of-q3-2025)  
+**Page:** [/en/home/news/company-blog/graphics-solutions-favorite-projects-of-q3-2025](https://www.averydennison.com/en/home/news/company-blog/graphics-solutions-favorite-projects-of-q3-2025.html)  
 **Template cluster:** `a3191cc424` (Blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

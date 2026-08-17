@@ -3,7 +3,7 @@ title: "venus-liu"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/careers/employee-stories/venus-liu`](/pages/en_home_careers_employee-stories_venus-liu)  
+**Page:** [/en/home/careers/employee-stories/venus-liu](https://www.averydennison.com/en/home/careers/employee-stories/venus-liu.html)  
 **Template cluster:** `c980aa193b` (employee story article with campaign reflection card)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

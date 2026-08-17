@@ -3,7 +3,7 @@ title: "vestcom-research-reveals-the-power-of-in-store-media-maximizing-impact"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/press-releases/vestcom-research-reveals-the-power-of-in-store-media-maximizing-impact`](/pages/en_home_news_press-releases_vestcom-research-reveals-the-power-of-in-store-media-maximizing-impact)  
+**Page:** [/en/home/news/press-releases/vestcom-research-reveals-the-power-of-in-store-media-maximizing-impact](https://www.averydennison.com/en/home/news/press-releases/vestcom-research-reveals-the-power-of-in-store-media-maximizing-impact.html)  
 **Template cluster:** `7103a06fe6` (press release (announcement with partner boilerplates))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

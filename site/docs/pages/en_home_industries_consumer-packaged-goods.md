@@ -3,7 +3,7 @@ title: "consumer-packaged-goods"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/industries/consumer-packaged-goods`](/pages/en_home_industries_consumer-packaged-goods)  
+**Page:** [/en/home/industries/consumer-packaged-goods](https://www.averydennison.com/en/home/industries/consumer-packaged-goods.html)  
 **Template cluster:** `17e750259f` (industry landing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

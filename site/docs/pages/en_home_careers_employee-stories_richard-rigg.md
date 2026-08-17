@@ -3,7 +3,7 @@ title: "richard-rigg"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/careers/employee-stories/richard-rigg`](/pages/en_home_careers_employee-stories_richard-rigg)  
+**Page:** [/en/home/careers/employee-stories/richard-rigg](https://www.averydennison.com/en/home/careers/employee-stories/richard-rigg.html)  
 **Template cluster:** `6c167a581e` (employee story article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

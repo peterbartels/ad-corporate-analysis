@@ -12,6 +12,12 @@ Video embed block supporting YouTube iframes (single, or 2-3 in a row with capti
 
 > **Migration notes:** JW Player usage is legacy — DEPT build should standardize on a single player for DAM video; YouTube embeds need cookie-consent gating.
 
+## Example
+
+![Video Block example — /en/home/careers/early-career-opportunities](/component-examples/video-block.png)
+
+*Captured live from [/en/home/careers/early-career-opportunities](https://www.averydennison.com/en/home/careers/early-career-opportunities.html) — see the [page composition](/pages/en_home_careers_early-career-opportunities).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

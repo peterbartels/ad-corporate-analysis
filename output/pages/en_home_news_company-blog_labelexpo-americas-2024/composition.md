@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/labelexpo-americas-2024`  
+**Page:** [/en/home/news/company-blog/labelexpo-americas-2024](https://www.averydennison.com/en/home/news/company-blog/labelexpo-americas-2024.html)  
 **Template cluster:** `d02c087570` (blog-article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

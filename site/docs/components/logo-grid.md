@@ -12,6 +12,12 @@ Grid of partner/portfolio logos, observed as a 4-column grid of logo + descripti
 
 > **Migration notes:** Logo rows inside press releases were authored as image/side-by-side components; editors should switch to this block after migration.
 
+## Example
+
+![Logo Grid example — /en/home/company/corporate-venture-capital-program](/component-examples/logo-grid.png)
+
+*Captured live from [/en/home/company/corporate-venture-capital-program](https://www.averydennison.com/en/home/company/corporate-venture-capital-program.html) — see the [page composition](/pages/en_home_company_corporate-venture-capital-program).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

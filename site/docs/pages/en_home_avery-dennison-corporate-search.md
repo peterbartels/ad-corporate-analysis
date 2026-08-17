@@ -3,7 +3,7 @@ title: "avery-dennison-corporate-search"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/avery-dennison-corporate-search`](/pages/en_home_avery-dennison-corporate-search)  
+**Page:** [/en/home/avery-dennison-corporate-search](https://www.averydennison.com/en/home/avery-dennison-corporate-search.html)  
 **Template cluster:** `3a0c73ff6d` (site search results page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -3,7 +3,7 @@ title: "avery-dennison-helps-2-make-a-wish-kids-wishes-come-true"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/avery-dennison-helps-2-make-a-wish-kids-wishes-come-true`](/pages/en_home_news_company-blog_avery-dennison-helps-2-make-a-wish-kids-wishes-come-true)  
+**Page:** [/en/home/news/company-blog/avery-dennison-helps-2-make-a-wish-kids-wishes-come-true](https://www.averydennison.com/en/home/news/company-blog/avery-dennison-helps-2-make-a-wish-kids-wishes-come-true.html)  
 **Template cluster:** `4387538938` (company blog article (video + photo essay))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

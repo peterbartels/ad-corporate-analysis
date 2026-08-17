@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/careers/search-jobs/recruitment-fraud-disclaimer`  
+**Page:** [/en/home/careers/search-jobs/recruitment-fraud-disclaimer](https://www.averydennison.com/en/home/careers/search-jobs/recruitment-fraud-disclaimer.html)  
 **Template cluster:** `1a8eaa430a` (simple text page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

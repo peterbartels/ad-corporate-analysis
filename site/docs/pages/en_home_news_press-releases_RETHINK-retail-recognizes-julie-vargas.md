@@ -3,7 +3,7 @@ title: "RETHINK-retail-recognizes-julie-vargas"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/press-releases/RETHINK-retail-recognizes-julie-vargas`  
+**Page:** [/en/home/news/press-releases/RETHINK-retail-recognizes-julie-vargas](https://www.averydennison.com/en/home/news/press-releases/RETHINK-retail-recognizes-julie-vargas.html)  
 **Template cluster:** `7103a06fe6` (press release (announcement with partner boilerplates))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

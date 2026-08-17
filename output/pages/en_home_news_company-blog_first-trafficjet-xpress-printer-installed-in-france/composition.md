@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/first-trafficjet-xpress-printer-installed-in-france`  
+**Page:** [/en/home/news/company-blog/first-trafficjet-xpress-printer-installed-in-france](https://www.averydennison.com/en/home/news/company-blog/first-trafficjet-xpress-printer-installed-in-france.html)  
 **Template cluster:** `9dc35dc8d8` (company blog article (spacer skeleton, single inline image))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

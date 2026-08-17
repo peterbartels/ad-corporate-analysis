@@ -3,7 +3,7 @@ title: "what-would-stan-think-90-years-of-avery-dennison"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/what-would-stan-think-90-years-of-avery-dennison`](/pages/en_home_news_company-blog_what-would-stan-think-90-years-of-avery-dennison)  
+**Page:** [/en/home/news/company-blog/what-would-stan-think-90-years-of-avery-dennison](https://www.averydennison.com/en/home/news/company-blog/what-would-stan-think-90-years-of-avery-dennison.html)  
 **Template cluster:** `b91eb13b1f` (company blog article (leadership quote listicle))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

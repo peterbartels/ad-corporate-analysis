@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/careers/early-career-opportunities/global`  
+**Page:** [/en/home/careers/early-career-opportunities/global](https://www.averydennison.com/en/home/careers/early-career-opportunities/global.html)  
 **Template cluster:** `684a270a48` (career program detail page (two-column with sidebar))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -12,6 +12,12 @@ Embedded page-flip document viewer for annual/integrated reports, rendering a He
 
 > **Migration notes:** PDF-embed per DEPT table. Third-party Heyzine dependency; confirm CSP/consent handling in the Next.js build.
 
+## Example
+
+![Publication example — /en/home/company/avery-dennison-foundation/corporate-social-responsibility-report](/component-examples/publication.png)
+
+*Captured live from [/en/home/company/avery-dennison-foundation/corporate-social-responsibility-report](https://www.averydennison.com/en/home/company/avery-dennison-foundation/corporate-social-responsibility-report.html) — see the [page composition](/pages/en_home_company_avery-dennison-foundation_corporate-social-responsibility-report).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

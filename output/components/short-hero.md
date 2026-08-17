@@ -8,6 +8,12 @@ Full-width decorative photo banner without text overlay, used at the top of camp
 
 > **Migration notes:** Authored in AEM both as an image component and as a CSS background-image band; unify on a single image field in the headless model.
 
+## Example
+
+![Short Hero example — /en/home/eu-policy/benefits-of-sustainability-compliance](examples/short-hero.png)
+
+*Captured live from [/en/home/eu-policy/benefits-of-sustainability-compliance](https://www.averydennison.com/en/home/eu-policy/benefits-of-sustainability-compliance.html) — see the [page composition](../pages/en_home_eu-policy_benefits-of-sustainability-compliance/composition.md).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

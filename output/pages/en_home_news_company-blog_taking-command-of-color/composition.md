@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/taking-command-of-color`  
+**Page:** [/en/home/news/company-blog/taking-command-of-color](https://www.averydennison.com/en/home/news/company-blog/taking-command-of-color.html)  
 **Template cluster:** `4ba53cbc79` (blog Q&A article with video and images)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

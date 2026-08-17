@@ -3,7 +3,7 @@ title: "optica-supply-chain-solutions"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/industries/optica-supply-chain-solutions`](/pages/en_home_industries_optica-supply-chain-solutions)  
+**Page:** [/en/home/industries/optica-supply-chain-solutions](https://www.averydennison.com/en/home/industries/optica-supply-chain-solutions.html)  
 **Template cluster:** `15556534c3` (industry landing page (featured-solution cards variant))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

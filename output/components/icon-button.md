@@ -6,6 +6,12 @@
 
 Text link/button with a leading icon, used for 'Read in local language (…)' links on translated employee stories and arrow-prefixed links.
 
+## Example
+
+![Icon Button example — /en/home/careers/employee-stories/artur-praski](examples/icon-button.png)
+
+*Captured live from [/en/home/careers/employee-stories/artur-praski](https://www.averydennison.com/en/home/careers/employee-stories/artur-praski.html) — see the [page composition](../pages/en_home_careers_employee-stories_artur-praski/composition.md).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

@@ -3,7 +3,7 @@ title: "avery-dennison-signs-a-definitive-agreement-to-acquire-silver-crystal-gr
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/press-releases/avery-dennison-signs-a-definitive-agreement-to-acquire-silver-crystal-group`](/pages/en_home_news_press-releases_avery-dennison-signs-a-definitive-agreement-to-acquire-silver-crystal-group)  
+**Page:** [/en/home/news/press-releases/avery-dennison-signs-a-definitive-agreement-to-acquire-silver-crystal-group](https://www.averydennison.com/en/home/news/press-releases/avery-dennison-signs-a-definitive-agreement-to-acquire-silver-crystal-group.html)  
 **Template cluster:** `967affaadc` (press release (acquisition with acquired-company boilerplate))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

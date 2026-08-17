@@ -3,7 +3,7 @@ title: "voluntary-self-identification-of-disability"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/careers/voluntary-self-identification-of-disability`](/pages/en_home_careers_voluntary-self-identification-of-disability)  
+**Page:** [/en/home/careers/voluntary-self-identification-of-disability](https://www.averydennison.com/en/home/careers/voluntary-self-identification-of-disability.html)  
 **Template cluster:** `fd3a316b75` (plain text / policy page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

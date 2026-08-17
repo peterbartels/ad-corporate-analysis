@@ -3,7 +3,7 @@ title: "values"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/company/values`](/pages/en_home_company_values)  
+**Page:** [/en/home/company/values](https://www.averydennison.com/en/home/company/values.html)  
 **Template cluster:** `9c9a7658bc` (values overview page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

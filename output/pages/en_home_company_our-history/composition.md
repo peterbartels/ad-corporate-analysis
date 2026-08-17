@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/company/our-history`  
+**Page:** [/en/home/company/our-history](https://www.averydennison.com/en/home/company/our-history.html)  
 **Template cluster:** `91fe310b40` (company history timeline page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

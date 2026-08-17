@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/22-reasons-employees-say-avery-dennison-is-a-great-place-to-work`  
+**Page:** [/en/home/news/company-blog/22-reasons-employees-say-avery-dennison-is-a-great-place-to-work](https://www.averydennison.com/en/home/news/company-blog/22-reasons-employees-say-avery-dennison-is-a-great-place-to-work.html)  
 **Template cluster:** `68744d6613` (blog-article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

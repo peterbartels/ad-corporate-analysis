@@ -3,7 +3,7 @@ title: "creative-showcase"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/technologies/creative-showcase`](/pages/en_home_technologies_creative-showcase)  
+**Page:** [/en/home/technologies/creative-showcase](https://www.averydennison.com/en/home/technologies/creative-showcase.html)  
 **Template cluster:** `1a45184d88` (technology showcase landing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

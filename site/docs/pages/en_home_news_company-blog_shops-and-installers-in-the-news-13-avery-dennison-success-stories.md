@@ -3,7 +3,7 @@ title: "shops-and-installers-in-the-news-13-avery-dennison-success-stories"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/shops-and-installers-in-the-news-13-avery-dennison-success-stories`](/pages/en_home_news_company-blog_shops-and-installers-in-the-news-13-avery-dennison-success-stories)  
+**Page:** [/en/home/news/company-blog/shops-and-installers-in-the-news-13-avery-dennison-success-stories](https://www.averydennison.com/en/home/news/company-blog/shops-and-installers-in-the-news-13-avery-dennison-success-stories.html)  
 **Template cluster:** `913ef61857` (blog article with boxed card sections)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

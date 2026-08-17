@@ -3,7 +3,7 @@ title: "general-terms-and-conditions-of-purchase"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/legal-and-privacy-notices/general-terms-and-conditions-of-purchase`](/pages/en_home_legal-and-privacy-notices_general-terms-and-conditions-of-purchase)  
+**Page:** [/en/home/legal-and-privacy-notices/general-terms-and-conditions-of-purchase](https://www.averydennison.com/en/home/legal-and-privacy-notices/general-terms-and-conditions-of-purchase.html)  
 **Template cluster:** `a660fbe273` (Legal document index page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

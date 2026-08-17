@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/avery-dennison-foundation-celebrates-international-womens-day`  
+**Page:** [/en/home/news/company-blog/avery-dennison-foundation-celebrates-international-womens-day](https://www.averydennison.com/en/home/news/company-blog/avery-dennison-foundation-celebrates-international-womens-day.html)  
 **Template cluster:** `25d30ab972` (company blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -12,6 +12,12 @@ Leadership biography page block: large circular portrait in the left column with
 
 > **Migration notes:** NEW component. Model as a Person content type shared with people-overview and article-author; bio pages then render Person entries.
 
+## Example
+
+![Person Bio example — /en/home/company/our-leadership/danny-allouche](/component-examples/person-bio.png)
+
+*Captured live from [/en/home/company/our-leadership/danny-allouche](https://www.averydennison.com/en/home/company/our-leadership/danny-allouche.html) — see the [page composition](/pages/en_home_company_our-leadership_danny-allouche).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

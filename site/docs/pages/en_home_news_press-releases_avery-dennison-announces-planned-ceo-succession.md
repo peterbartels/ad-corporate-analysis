@@ -3,7 +3,7 @@ title: "avery-dennison-announces-planned-ceo-succession"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/press-releases/avery-dennison-announces-planned-ceo-succession`](/pages/en_home_news_press-releases_avery-dennison-announces-planned-ceo-succession)  
+**Page:** [/en/home/news/press-releases/avery-dennison-announces-planned-ceo-succession](https://www.averydennison.com/en/home/news/press-releases/avery-dennison-announces-planned-ceo-succession.html)  
 **Template cluster:** `f77839e15d` (press release (compact corporate announcement))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

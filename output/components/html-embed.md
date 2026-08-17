@@ -8,6 +8,12 @@ Raw HTML escape hatch for bespoke markup that has no structured component, e.g. 
 
 > **Migration notes:** Keep usage minimal in the headless build; each observed usage (orange highlight rows) should ideally get a structured block instead. Also the fallback for one-off campaign share widgets (see table notes).
 
+## Example
+
+![HTML Embed example — /en/home/eu-policy/our-vision-more-sustainable-competitive-europe-connecting-physical-and-digital](examples/html-embed.png)
+
+*Captured live from [/en/home/eu-policy/our-vision-more-sustainable-competitive-europe-connecting-physical-and-digital](https://www.averydennison.com/en/home/eu-policy/our-vision-more-sustainable-competitive-europe-connecting-physical-and-digital.html) — see the [page composition](../pages/en_home_eu-policy_our-vision-more-sustainable-competitive-europe-connecting-physical-and-digital/composition.md).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

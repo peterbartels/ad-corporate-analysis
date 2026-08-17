@@ -3,7 +3,7 @@ title: "artur-praski"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/careers/employee-stories/artur-praski`](/pages/en_home_careers_employee-stories_artur-praski)  
+**Page:** [/en/home/careers/employee-stories/artur-praski](https://www.averydennison.com/en/home/careers/employee-stories/artur-praski.html)  
 **Template cluster:** `254d54c951` (employee story article (translated, local-language link))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

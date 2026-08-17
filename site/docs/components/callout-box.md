@@ -12,6 +12,12 @@ Grey highlight panel with a red top border containing a heading and rich text (o
 
 > **Migration notes:** NEW component (currently styled richtext in AEM). The same callout shape appears embedded in side-by-side (callout.title/callout.body) — reuse this model there.
 
+## Example
+
+![Callout Box example — /en/home/making-possible](/component-examples/callout-box.png)
+
+*Captured live from [/en/home/making-possible](https://www.averydennison.com/en/home/making-possible.html) — see the [page composition](/pages/en_home_making-possible).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

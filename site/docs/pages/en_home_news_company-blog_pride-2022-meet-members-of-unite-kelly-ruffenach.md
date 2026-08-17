@@ -3,7 +3,7 @@ title: "pride-2022-meet-members-of-unite-kelly-ruffenach"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/pride-2022-meet-members-of-unite-kelly-ruffenach`](/pages/en_home_news_company-blog_pride-2022-meet-members-of-unite-kelly-ruffenach)  
+**Page:** [/en/home/news/company-blog/pride-2022-meet-members-of-unite-kelly-ruffenach](https://www.averydennison.com/en/home/news/company-blog/pride-2022-meet-members-of-unite-kelly-ruffenach.html)  
 **Template cluster:** `f897959cd1` (company blog article (standfirst variant))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

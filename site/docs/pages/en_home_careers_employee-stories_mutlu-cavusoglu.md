@@ -3,7 +3,7 @@ title: "mutlu-cavusoglu"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/careers/employee-stories/mutlu-cavusoglu`](/pages/en_home_careers_employee-stories_mutlu-cavusoglu)  
+**Page:** [/en/home/careers/employee-stories/mutlu-cavusoglu](https://www.averydennison.com/en/home/careers/employee-stories/mutlu-cavusoglu.html)  
 **Template cluster:** `6c167a581e` (employee story article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

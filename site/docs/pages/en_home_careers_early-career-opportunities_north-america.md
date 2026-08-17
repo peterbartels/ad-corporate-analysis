@@ -3,7 +3,7 @@ title: "north-america"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/careers/early-career-opportunities/north-america`](/pages/en_home_careers_early-career-opportunities_north-america)  
+**Page:** [/en/home/careers/early-career-opportunities/north-america](https://www.averydennison.com/en/home/careers/early-career-opportunities/north-america.html)  
 **Template cluster:** `9a50d2c269` (regional early careers page with full contact form)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

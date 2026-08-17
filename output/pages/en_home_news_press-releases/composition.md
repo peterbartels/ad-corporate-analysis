@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/press-releases`  
+**Page:** [/en/home/news/press-releases](https://www.averydennison.com/en/home/news/press-releases.html)  
 **Template cluster:** `47986aca87` (press releases overview with media inquiries form)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

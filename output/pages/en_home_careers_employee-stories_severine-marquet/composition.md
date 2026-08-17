@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/careers/employee-stories/severine-marquet`  
+**Page:** [/en/home/careers/employee-stories/severine-marquet](https://www.averydennison.com/en/home/careers/employee-stories/severine-marquet.html)  
 **Template cluster:** `c980aa193b` (employee story article with campaign reflection card)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

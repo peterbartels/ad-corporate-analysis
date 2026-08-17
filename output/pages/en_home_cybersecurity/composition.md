@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/cybersecurity`  
+**Page:** [/en/home/cybersecurity](https://www.averydennison.com/en/home/cybersecurity.html)  
 **Template cluster:** `ef97ef574a` (policy page with info boxes)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

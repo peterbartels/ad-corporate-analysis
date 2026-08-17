@@ -3,7 +3,7 @@ title: "our-vision-more-sustainable-competitive-europe-connecting-physical-and-d
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/eu-policy/our-vision-more-sustainable-competitive-europe-connecting-physical-and-digital`](/pages/en_home_eu-policy_our-vision-more-sustainable-competitive-europe-connecting-physical-and-digital)  
+**Page:** [/en/home/eu-policy/our-vision-more-sustainable-competitive-europe-connecting-physical-and-digital](https://www.averydennison.com/en/home/eu-policy/our-vision-more-sustainable-competitive-europe-connecting-physical-and-digital.html)  
 **Template cluster:** `ad01f6e366` (campaign article page with highlight lists)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

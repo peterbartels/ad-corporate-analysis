@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/company/our-leadership`  
+**Page:** [/en/home/company/our-leadership](https://www.averydennison.com/en/home/company/our-leadership.html)  
 **Template cluster:** `16d3f47a61` (leadership overview page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

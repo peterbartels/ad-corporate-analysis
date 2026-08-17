@@ -3,7 +3,7 @@ title: "avery-dennison-names-presidents-for-two-business-segments"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/press-releases/avery-dennison-names-presidents-for-two-business-segments`](/pages/en_home_news_press-releases_avery-dennison-names-presidents-for-two-business-segments)  
+**Page:** [/en/home/news/press-releases/avery-dennison-names-presidents-for-two-business-segments](https://www.averydennison.com/en/home/news/press-releases/avery-dennison-names-presidents-for-two-business-segments.html)  
 **Template cluster:** `db5c6b09b0` (press release - leadership appointment (legacy))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

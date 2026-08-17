@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/what-to-look-for-in-an-auto-window-film-ft-harold-nimtz`  
+**Page:** [/en/home/news/company-blog/what-to-look-for-in-an-auto-window-film-ft-harold-nimtz](https://www.averydennison.com/en/home/news/company-blog/what-to-look-for-in-an-auto-window-film-ft-harold-nimtz.html)  
 **Template cluster:** `d7f6ddf5de` (company blog article (Q&A interview with video))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

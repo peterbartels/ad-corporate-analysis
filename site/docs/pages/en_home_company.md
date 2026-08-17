@@ -2,7 +2,7 @@
 title: "company"
 ---
 
-**Page:** [`/en/home/company`](/pages/en_home_company)
+**Page:** [/en/home/company](https://www.averydennison.com/en/home/company.html)
 
 # Structural node page
 

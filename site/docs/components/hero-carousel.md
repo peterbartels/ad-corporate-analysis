@@ -12,6 +12,12 @@ Full-width hero slider used at the top of the corporate homepage. Each slide sho
 
 > **Migration notes:** Source: AEM carousel component on the homepage. Distinct from carousel-block (article card lists) and campaign-stat-hero (bespoke nourish-header built on carousel markup).
 
+## Example
+
+![Hero Carousel example — /en/home](/component-examples/hero-carousel.png)
+
+*Captured live from [/en/home](https://www.averydennison.com/en/home.html) — see the [page composition](/pages/en_home).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

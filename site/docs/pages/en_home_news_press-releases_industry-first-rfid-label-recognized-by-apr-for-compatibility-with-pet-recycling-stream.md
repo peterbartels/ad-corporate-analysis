@@ -3,7 +3,7 @@ title: "industry-first-rfid-label-recognized-by-apr-for-compatibility-with-pet-r
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/press-releases/industry-first-rfid-label-recognized-by-apr-for-compatibility-with-pet-recycling-stream`](/pages/en_home_news_press-releases_industry-first-rfid-label-recognized-by-apr-for-compatibility-with-pet-recycling-stream)  
+**Page:** [/en/home/news/press-releases/industry-first-rfid-label-recognized-by-apr-for-compatibility-with-pet-recycling-stream](https://www.averydennison.com/en/home/news/press-releases/industry-first-rfid-label-recognized-by-apr-for-compatibility-with-pet-recycling-stream.html)  
 **Template cluster:** `198237300e` (press release - product recognition)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

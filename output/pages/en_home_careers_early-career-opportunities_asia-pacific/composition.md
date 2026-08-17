@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/careers/early-career-opportunities/asia-pacific`  
+**Page:** [/en/home/careers/early-career-opportunities/asia-pacific](https://www.averydennison.com/en/home/careers/early-career-opportunities/asia-pacific.html)  
 **Template cluster:** `59d36fd1ec` (regional early careers overview (two-column with sidebar))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

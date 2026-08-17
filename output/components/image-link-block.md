@@ -8,6 +8,12 @@ Grid of box-button links, observed as a 5-column grid of 15 business-unit boxes 
 
 > **Migration notes:** Per DEPT table 'Image Link Block / Categories Block (box buttons)' — confirm with DEPT whether this merges with categories-block in the final design system; kept separate here because observed items are pure label links without icon/description.
 
+## Example
+
+![Image Link Block example — /en/home](examples/image-link-block.png)
+
+*Captured live from [/en/home](https://www.averydennison.com/en/home.html) — see the [page composition](../pages/en_home/composition.md).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

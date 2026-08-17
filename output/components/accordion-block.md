@@ -8,6 +8,12 @@ Expand/collapse block, observed on the employee stories listing page in its tab 
 
 > **Migration notes:** The tab-filter usage is really a listing filter; DEPT may prefer implementing it as part of the listing page template instead of a content block.
 
+## Example
+
+![Accordion Block example — /en/home/careers/life-at-ad](examples/accordion-block.png)
+
+*Captured live from [/en/home/careers/life-at-ad](https://www.averydennison.com/en/home/careers/life-at-ad.html) — see the [page composition](../pages/en_home_careers_life-at-ad/composition.md).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

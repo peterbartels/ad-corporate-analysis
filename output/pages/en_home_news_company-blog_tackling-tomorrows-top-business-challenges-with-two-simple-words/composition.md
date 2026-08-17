@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/tackling-tomorrows-top-business-challenges-with-two-simple-words`  
+**Page:** [/en/home/news/company-blog/tackling-tomorrows-top-business-challenges-with-two-simple-words](https://www.averydennison.com/en/home/news/company-blog/tackling-tomorrows-top-business-challenges-with-two-simple-words.html)  
 **Template cluster:** `8f03dab11f` (long-form text-only blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

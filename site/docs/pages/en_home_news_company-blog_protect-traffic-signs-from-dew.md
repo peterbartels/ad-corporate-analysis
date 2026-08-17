@@ -3,7 +3,7 @@ title: "protect-traffic-signs-from-dew"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/protect-traffic-signs-from-dew`](/pages/en_home_news_company-blog_protect-traffic-signs-from-dew)  
+**Page:** [/en/home/news/company-blog/protect-traffic-signs-from-dew](https://www.averydennison.com/en/home/news/company-blog/protect-traffic-signs-from-dew.html)  
 **Template cluster:** `050884a638` (company blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

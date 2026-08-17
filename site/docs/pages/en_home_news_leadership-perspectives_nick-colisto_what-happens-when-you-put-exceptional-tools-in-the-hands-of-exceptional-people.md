@@ -3,7 +3,7 @@ title: "what-happens-when-you-put-exceptional-tools-in-the-hands-of-exceptional-
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/leadership-perspectives/nick-colisto/what-happens-when-you-put-exceptional-tools-in-the-hands-of-exceptional-people`](/pages/en_home_news_leadership-perspectives_nick-colisto_what-happens-when-you-put-exceptional-tools-in-the-hands-of-exceptional-people)  
+**Page:** [/en/home/news/leadership-perspectives/nick-colisto/what-happens-when-you-put-exceptional-tools-in-the-hands-of-exceptional-people](https://www.averydennison.com/en/home/news/leadership-perspectives/nick-colisto/what-happens-when-you-put-exceptional-tools-in-the-hands-of-exceptional-people.html)  
 **Template cluster:** `a2e904ad76` (leadership perspectives article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

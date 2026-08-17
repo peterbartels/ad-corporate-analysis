@@ -3,7 +3,7 @@ title: "avery-dennison-foundation-helps-kids-of-employees-achieve-their-dreams-o
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/avery-dennison-foundation-helps-kids-of-employees-achieve-their-dreams-of-higher-education`](/pages/en_home_news_company-blog_avery-dennison-foundation-helps-kids-of-employees-achieve-their-dreams-of-higher-education)  
+**Page:** [/en/home/news/company-blog/avery-dennison-foundation-helps-kids-of-employees-achieve-their-dreams-of-higher-education](https://www.averydennison.com/en/home/news/company-blog/avery-dennison-foundation-helps-kids-of-employees-achieve-their-dreams-of-higher-education.html)  
 **Template cluster:** `35b48e12c4` (company blog article (standfirst variant))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

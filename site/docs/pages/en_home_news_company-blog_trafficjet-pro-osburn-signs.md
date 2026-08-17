@@ -3,7 +3,7 @@ title: "trafficjet-pro-osburn-signs"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/trafficjet-pro-osburn-signs`](/pages/en_home_news_company-blog_trafficjet-pro-osburn-signs)  
+**Page:** [/en/home/news/company-blog/trafficjet-pro-osburn-signs](https://www.averydennison.com/en/home/news/company-blog/trafficjet-pro-osburn-signs.html)  
 **Template cluster:** `5a0e5ea178` (blog customer story with quote standfirst)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

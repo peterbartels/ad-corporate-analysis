@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/company/corporate-venture-capital-program`  
+**Page:** [/en/home/company/corporate-venture-capital-program](https://www.averydennison.com/en/home/company/corporate-venture-capital-program.html)  
 **Template cluster:** `9fc410a27d` (ventures program landing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

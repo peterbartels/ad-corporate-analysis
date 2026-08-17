@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/shop-profits-productivity-and-professionalism-get-a-big-boost`  
+**Page:** [/en/home/news/company-blog/shop-profits-productivity-and-professionalism-get-a-big-boost](https://www.averydennison.com/en/home/news/company-blog/shop-profits-productivity-and-professionalism-get-a-big-boost.html)  
 **Template cluster:** `1e53c15767` (blog article with infographic and inline videos)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

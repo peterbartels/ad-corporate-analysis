@@ -3,7 +3,7 @@ title: "europes-waste-problem"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/eu-policy/europes-waste-problem`](/pages/en_home_eu-policy_europes-waste-problem)  
+**Page:** [/en/home/eu-policy/europes-waste-problem](https://www.averydennison.com/en/home/eu-policy/europes-waste-problem.html)  
 **Template cluster:** `9586d18532` (campaign article page with stat bands)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

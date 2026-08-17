@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/pride-2023-meet-members-of-unite-maria-ocampo`  
+**Page:** [/en/home/news/company-blog/pride-2023-meet-members-of-unite-maria-ocampo](https://www.averydennison.com/en/home/news/company-blog/pride-2023-meet-members-of-unite-maria-ocampo.html)  
 **Template cluster:** `6080bb04f2` (company blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

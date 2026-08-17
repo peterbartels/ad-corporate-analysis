@@ -3,7 +3,7 @@ title: "introducing-avery-dennison-elevate-employee-resource-group"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/introducing-avery-dennison-elevate-employee-resource-group`](/pages/en_home_news_company-blog_introducing-avery-dennison-elevate-employee-resource-group)  
+**Page:** [/en/home/news/company-blog/introducing-avery-dennison-elevate-employee-resource-group](https://www.averydennison.com/en/home/news/company-blog/introducing-avery-dennison-elevate-employee-resource-group.html)  
 **Template cluster:** `f834a28060` (Blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

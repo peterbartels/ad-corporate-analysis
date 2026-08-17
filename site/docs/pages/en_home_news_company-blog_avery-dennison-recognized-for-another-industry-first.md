@@ -3,7 +3,7 @@ title: "avery-dennison-recognized-for-another-industry-first"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/avery-dennison-recognized-for-another-industry-first`](/pages/en_home_news_company-blog_avery-dennison-recognized-for-another-industry-first)  
+**Page:** [/en/home/news/company-blog/avery-dennison-recognized-for-another-industry-first](https://www.averydennison.com/en/home/news/company-blog/avery-dennison-recognized-for-another-industry-first.html)  
 **Template cluster:** `a5792de942` (company blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

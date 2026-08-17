@@ -12,6 +12,12 @@ Card-style call-to-action container: eyebrow, heading, rich body and a pill CTA 
 
 > **Migration notes:** Absorbs raw 'content-card' (single-use boxed card; analyst mapped it to CTA Block). The 4-column teaser usage was an AEM experience fragment shared across EU-policy pages — model as a reusable entry.
 
+## Example
+
+![CTA Block example — /en/home](/component-examples/cta-block.png)
+
+*Captured live from [/en/home](https://www.averydennison.com/en/home.html) — see the [page composition](/pages/en_home).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

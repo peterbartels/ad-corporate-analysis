@@ -8,6 +8,12 @@ Site-wide search results application (legacy AngularJS): keyword input, collapsi
 
 > **Migration notes:** NEW, non-CMS functional component. Full rebuild in React against a new search service (e.g. Algolia/Elastic); facet values are runtime data, not authored fields.
 
+## Example
+
+![Site Search example — /en/home/avery-dennison-corporate-search](examples/site-search.png)
+
+*Captured live from [/en/home/avery-dennison-corporate-search](https://www.averydennison.com/en/home/avery-dennison-corporate-search.html) — see the [page composition](../pages/en_home_avery-dennison-corporate-search/composition.md).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/yungatha-expands-with-trafficjet-xpress`  
+**Page:** [/en/home/news/company-blog/yungatha-expands-with-trafficjet-xpress](https://www.averydennison.com/en/home/news/company-blog/yungatha-expands-with-trafficjet-xpress.html)  
 **Template cluster:** `1f941b2708` (blog article with inline image)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

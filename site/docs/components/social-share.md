@@ -12,6 +12,12 @@ Row of social share icons ('Share' label + Facebook, X, LinkedIn and email inten
 
 > **Migration notes:** Good candidate for a global/template-level setting rather than per-page authoring.
 
+## Example
+
+![Social Share example — /en/home/company/reports/integrated-report](/component-examples/social-share.png)
+
+*Captured live from [/en/home/company/reports/integrated-report](https://www.averydennison.com/en/home/company/reports/integrated-report.html) — see the [page composition](/pages/en_home_company_reports_integrated-report).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

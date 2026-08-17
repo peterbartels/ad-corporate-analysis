@@ -12,6 +12,12 @@ Company-history timeline: era sections (1940-1949 through 2020-Present) rendered
 
 > **Migration notes:** NEW component, single-use on the company history page.
 
+## Example
+
+![Timeline Block example — /en/home/company/our-history](/component-examples/timeline-block.png)
+
+*Captured live from [/en/home/company/our-history](https://www.averydennison.com/en/home/company/our-history.html) — see the [page composition](/pages/en_home_company_our-history).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

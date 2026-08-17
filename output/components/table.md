@@ -8,6 +8,12 @@ Tabular content in three observed shapes: alternating-row link tables grouped un
 
 > **Migration notes:** Absorbs raw 'campaign-table' (bespoke nourish-table HTML) as the definitionList variant. Its share-page rows with iconLinks[] and click-to-copy text are one-off campaign functionality — migrate that single page with html-embed or a bespoke share module, not this model. Needs reconciliation with DEPT on whether authored via a richtext table editor or structured rows.
 
+## Example
+
+![Table Block example — /en/home/cookie-policy/cookie-overview](examples/table.png)
+
+*Captured live from [/en/home/cookie-policy/cookie-overview](https://www.averydennison.com/en/home/cookie-policy/cookie-overview.html) — see the [page composition](../pages/en_home_cookie-policy_cookie-overview/composition.md).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

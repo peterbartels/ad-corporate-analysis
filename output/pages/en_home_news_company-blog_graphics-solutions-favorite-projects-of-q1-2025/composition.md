@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/graphics-solutions-favorite-projects-of-q1-2025`  
+**Page:** [/en/home/news/company-blog/graphics-solutions-favorite-projects-of-q1-2025](https://www.averydennison.com/en/home/news/company-blog/graphics-solutions-favorite-projects-of-q1-2025.html)  
 **Template cluster:** `558b097c4a` (company blog article (spacer skeleton, project-card roundup))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

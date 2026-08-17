@@ -12,6 +12,12 @@ Right-rail contact list on press-release pages: 'Media Contact(s)' heading, opti
 
 > **Migration notes:** NEW component (currently authored as richtext in AEM). Absorbs raw 'media-contact' (singular) — identical press-sidebar block. Model the default corporate contacts as a reusable entry.
 
+## Example
+
+![Media Contacts example — /en/home/news/press-releases/540-billion-global-food-waste-bill-exposed-for-2026](/component-examples/media-contacts.png)
+
+*Captured live from [/en/home/news/press-releases/540-billion-global-food-waste-bill-exposed-for-2026](https://www.averydennison.com/en/home/news/press-releases/540-billion-global-food-waste-bill-exposed-for-2026.html) — see the [page composition](/pages/en_home_news_press-releases_540-billion-global-food-waste-bill-exposed-for-2026).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

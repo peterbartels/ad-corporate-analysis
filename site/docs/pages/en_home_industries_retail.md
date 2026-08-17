@@ -3,7 +3,7 @@ title: "retail"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/industries/retail`](/pages/en_home_industries_retail)  
+**Page:** [/en/home/industries/retail](https://www.averydennison.com/en/home/industries/retail.html)  
 **Template cluster:** `17e750259f` (industry landing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/press-releases/avery-dennison-announces-q1-2024-results`  
+**Page:** [/en/home/news/press-releases/avery-dennison-announces-q1-2024-results](https://www.averydennison.com/en/home/news/press-releases/avery-dennison-announces-q1-2024-results.html)  
 **Template cluster:** `d2485bb72d` (press release - quarterly earnings)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

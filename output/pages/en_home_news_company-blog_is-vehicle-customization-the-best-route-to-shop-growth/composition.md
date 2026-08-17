@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/is-vehicle-customization-the-best-route-to-shop-growth`  
+**Page:** [/en/home/news/company-blog/is-vehicle-customization-the-best-route-to-shop-growth](https://www.averydennison.com/en/home/news/company-blog/is-vehicle-customization-the-best-route-to-shop-growth.html)  
 **Template cluster:** `80d3cdbc4f` (Blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

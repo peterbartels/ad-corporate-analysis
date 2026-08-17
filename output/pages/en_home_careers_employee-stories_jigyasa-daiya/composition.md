@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/careers/employee-stories/jigyasa-daiya`  
+**Page:** [/en/home/careers/employee-stories/jigyasa-daiya](https://www.averydennison.com/en/home/careers/employee-stories/jigyasa-daiya.html)  
 **Template cluster:** `d1ab4f36d7` (employee story article (extended, multiple photo groups))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

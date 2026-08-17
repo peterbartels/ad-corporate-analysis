@@ -3,7 +3,7 @@ title: "avery-dennison-completes-acquisition-of-meridians-flooring-business"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/press-releases/avery-dennison-completes-acquisition-of-meridians-flooring-business`](/pages/en_home_news_press-releases_avery-dennison-completes-acquisition-of-meridians-flooring-business)  
+**Page:** [/en/home/news/press-releases/avery-dennison-completes-acquisition-of-meridians-flooring-business](https://www.averydennison.com/en/home/news/press-releases/avery-dennison-completes-acquisition-of-meridians-flooring-business.html)  
 **Template cluster:** `696c712cbf` (press release - short announcement)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

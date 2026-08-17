@@ -3,7 +3,7 @@ title: "ecovias-launches-vertical-sign-center-with-trafficjet"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/ecovias-launches-vertical-sign-center-with-trafficjet`](/pages/en_home_news_company-blog_ecovias-launches-vertical-sign-center-with-trafficjet)  
+**Page:** [/en/home/news/company-blog/ecovias-launches-vertical-sign-center-with-trafficjet](https://www.averydennison.com/en/home/news/company-blog/ecovias-launches-vertical-sign-center-with-trafficjet.html)  
 **Template cluster:** `a177cebc9a` (company blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

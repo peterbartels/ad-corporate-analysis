@@ -8,6 +8,12 @@ Inline article image block supporting a single full/half-width image or a 2-up (
 
 > **Migration notes:** Absorbs raw 'image-grid' (2-up variant). The observed 'bodyBelow' richtext prop should be authored as a separate richtext block in the layout, not a field here.
 
+## Example
+
+![Image example — /en/home/careers/employee-stories/alexandrina-cheptanaru](examples/image.png)
+
+*Captured live from [/en/home/careers/employee-stories/alexandrina-cheptanaru](https://www.averydennison.com/en/home/careers/employee-stories/alexandrina-cheptanaru.html) — see the [page composition](../pages/en_home_careers_employee-stories_alexandrina-cheptanaru/composition.md).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

@@ -8,6 +8,12 @@ Article/card list block: a 4-column card grid with 'View more' load-more (employ
 
 > **Migration notes:** Absorbs raw 'related-articles' (identical sidebar 'You may also like' shape). In AEM this was often 3 stacked list components rendering one grid — model as one block with a query source; strong candidate for tag-driven auto lists.
 
+## Example
+
+![Carousel Block example — /en/home/careers/life-at-ad](examples/carousel-block.png)
+
+*Captured live from [/en/home/careers/life-at-ad](https://www.averydennison.com/en/home/careers/life-at-ad.html) — see the [page composition](../pages/en_home_careers_life-at-ad/composition.md).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

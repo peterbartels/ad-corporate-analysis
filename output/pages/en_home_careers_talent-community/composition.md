@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/careers/talent-community`  
+**Page:** [/en/home/careers/talent-community](https://www.averydennison.com/en/home/careers/talent-community.html)  
 **Template cluster:** `f50859ebae` (talent community landing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

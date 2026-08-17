@@ -3,7 +3,7 @@ title: "industries"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/industries`](/pages/en_home_industries)  
+**Page:** [/en/home/industries](https://www.averydennison.com/en/home/industries.html)  
 **Template cluster:** `c5ebb61544` (corporate homepage)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

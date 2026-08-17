@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/our-statement-on-the-war-in-ukraine`  
+**Page:** [/en/home/our-statement-on-the-war-in-ukraine](https://www.averydennison.com/en/home/our-statement-on-the-war-in-ukraine.html)  
 **Template cluster:** `6cdf3f7dad` (simple statement page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

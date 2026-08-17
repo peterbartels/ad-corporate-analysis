@@ -8,6 +8,12 @@ Form embed supporting the native AEM avd-form (POST to /bin/services/contacts), 
 
 > **Migration notes:** Needs reconciliation per DEPT table (Act-On / Salesforce / iframe). The legacy /bin/services/contacts endpoint will not exist in the headless stack — a replacement form service is required.
 
+## Example
+
+![Form Block example — /en/home/contact-us](examples/form-block.png)
+
+*Captured live from [/en/home/contact-us](https://www.averydennison.com/en/home/contact-us.html) — see the [page composition](../pages/en_home_contact-us/composition.md).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

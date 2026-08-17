@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/inventing-the-future`  
+**Page:** [/en/home/news/company-blog/inventing-the-future](https://www.averydennison.com/en/home/news/company-blog/inventing-the-future.html)  
 **Template cluster:** `2947ff1173` (company blog article (legacy skeleton, hosted video))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/company/reports/integrated-report`  
+**Page:** [/en/home/company/reports/integrated-report](https://www.averydennison.com/en/home/company/reports/integrated-report.html)  
 **Template cluster:** `87dcb6e6d6` (report publication page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -3,7 +3,7 @@ title: "new-cardinal-health-surgical-drape-features-avery-dennison-benehold-chg-
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/press-releases/new-cardinal-health-surgical-drape-features-avery-dennison-benehold-chg-adhesive-technology`](/pages/en_home_news_press-releases_new-cardinal-health-surgical-drape-features-avery-dennison-benehold-chg-adhesive-technology)  
+**Page:** [/en/home/news/press-releases/new-cardinal-health-surgical-drape-features-avery-dennison-benehold-chg-adhesive-technology](https://www.averydennison.com/en/home/news/press-releases/new-cardinal-health-surgical-drape-features-avery-dennison-benehold-chg-adhesive-technology.html)  
 **Template cluster:** `967affaadc` (press release (acquisition with acquired-company boilerplate))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

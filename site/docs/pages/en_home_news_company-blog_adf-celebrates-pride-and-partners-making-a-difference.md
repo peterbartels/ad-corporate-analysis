@@ -3,7 +3,7 @@ title: "adf-celebrates-pride-and-partners-making-a-difference"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/adf-celebrates-pride-and-partners-making-a-difference`](/pages/en_home_news_company-blog_adf-celebrates-pride-and-partners-making-a-difference)  
+**Page:** [/en/home/news/company-blog/adf-celebrates-pride-and-partners-making-a-difference](https://www.averydennison.com/en/home/news/company-blog/adf-celebrates-pride-and-partners-making-a-difference.html)  
 **Template cluster:** `9541292103` (company blog article (multi-image))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

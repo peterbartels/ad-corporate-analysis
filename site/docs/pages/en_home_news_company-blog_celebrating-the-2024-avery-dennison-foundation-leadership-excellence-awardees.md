@@ -3,7 +3,7 @@ title: "celebrating-the-2024-avery-dennison-foundation-leadership-excellence-awa
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/celebrating-the-2024-avery-dennison-foundation-leadership-excellence-awardees`](/pages/en_home_news_company-blog_celebrating-the-2024-avery-dennison-foundation-leadership-excellence-awardees)  
+**Page:** [/en/home/news/company-blog/celebrating-the-2024-avery-dennison-foundation-leadership-excellence-awardees](https://www.averydennison.com/en/home/news/company-blog/celebrating-the-2024-avery-dennison-foundation-leadership-excellence-awardees.html)  
 **Template cluster:** `09c78f5d73` (company blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

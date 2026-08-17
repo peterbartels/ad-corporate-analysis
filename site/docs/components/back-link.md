@@ -12,6 +12,12 @@ Simple styled text link at the top of article pages leading back to the parent l
 
 > **Migration notes:** Analysts suggested it could fold into a Breadcrumb component; no breadcrumb was observed in the inventory, so it stays a standalone NEW component — revisit if DEPT adds Breadcrumb. Candidate for automatic derivation from the page tree.
 
+## Example
+
+![Back Link example — /en/home/careers/employee-stories/andrea-gissi](/component-examples/back-link.png)
+
+*Captured live from [/en/home/careers/employee-stories/andrea-gissi](https://www.averydennison.com/en/home/careers/employee-stories/andrea-gissi.html) — see the [page composition](/pages/en_home_careers_employee-stories_andrea-gissi).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

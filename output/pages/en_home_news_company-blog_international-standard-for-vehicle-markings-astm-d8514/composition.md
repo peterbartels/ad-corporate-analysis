@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/international-standard-for-vehicle-markings-astm-d8514`  
+**Page:** [/en/home/news/company-blog/international-standard-for-vehicle-markings-astm-d8514](https://www.averydennison.com/en/home/news/company-blog/international-standard-for-vehicle-markings-astm-d8514.html)  
 **Template cluster:** `8f19ac89f3` (Blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

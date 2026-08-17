@@ -3,7 +3,7 @@ title: "core-capabilities"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/technologies/core-capabilities`](/pages/en_home_technologies_core-capabilities)  
+**Page:** [/en/home/technologies/core-capabilities](https://www.averydennison.com/en/home/technologies/core-capabilities.html)  
 **Template cluster:** `95c281f8d4` (capabilities overview landing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

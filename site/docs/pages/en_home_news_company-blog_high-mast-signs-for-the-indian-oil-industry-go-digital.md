@@ -3,7 +3,7 @@ title: "high-mast-signs-for-the-indian-oil-industry-go-digital"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/high-mast-signs-for-the-indian-oil-industry-go-digital`](/pages/en_home_news_company-blog_high-mast-signs-for-the-indian-oil-industry-go-digital)  
+**Page:** [/en/home/news/company-blog/high-mast-signs-for-the-indian-oil-industry-go-digital](https://www.averydennison.com/en/home/news/company-blog/high-mast-signs-for-the-indian-oil-industry-go-digital.html)  
 **Template cluster:** `6080bb04f2` (company blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

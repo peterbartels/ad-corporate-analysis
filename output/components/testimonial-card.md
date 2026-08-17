@@ -8,6 +8,12 @@ Grid of grey quote cards (observed: two side by side on the campaign report page
 
 > **Migration notes:** NEW component (bespoke campaign HTML). Distinct from article-quote (single inline pull quote); if DEPT prefers consolidation it could become a multi-item variant of the Quote Block.
 
+## Example
+
+![Testimonial Cards example — /en/home/unlocking-food-waste-value-report](examples/testimonial-card.png)
+
+*Captured live from [/en/home/unlocking-food-waste-value-report](https://www.averydennison.com/en/home/unlocking-food-waste-value-report.html) — see the [page composition](../pages/en_home_unlocking-food-waste-value-report/composition.md).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

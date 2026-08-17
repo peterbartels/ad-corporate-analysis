@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/company/our-leadership/ignacio-walker`  
+**Page:** [/en/home/company/our-leadership/ignacio-walker](https://www.averydennison.com/en/home/company/our-leadership/ignacio-walker.html)  
 **Template cluster:** `4ad5c26a09` (leadership bio page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

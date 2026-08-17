@@ -8,6 +8,12 @@ Two-column media + text block, the most versatile layout component observed. Tex
 
 > **Migration notes:** Needs reconciliation with DEPT: the repeated-rows 'items' usage may be better authored as multiple side-by-side instances or a dedicated list block; decide before content modeling freeze.
 
+## Example
+
+![Side-by-side Block example — /en/home/eu-policy/benefits-of-sustainability-compliance](examples/side-by-side.png)
+
+*Captured live from [/en/home/eu-policy/benefits-of-sustainability-compliance](https://www.averydennison.com/en/home/eu-policy/benefits-of-sustainability-compliance.html) — see the [page composition](../pages/en_home_eu-policy_benefits-of-sustainability-compliance/composition.md).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

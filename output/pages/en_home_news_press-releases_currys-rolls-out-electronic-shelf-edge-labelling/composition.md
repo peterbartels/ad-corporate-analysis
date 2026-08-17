@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/press-releases/currys-rolls-out-electronic-shelf-edge-labelling`  
+**Page:** [/en/home/news/press-releases/currys-rolls-out-electronic-shelf-edge-labelling](https://www.averydennison.com/en/home/news/press-releases/currys-rolls-out-electronic-shelf-edge-labelling.html)  
 **Template cluster:** `3adfaf638f` (press release - customer story)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

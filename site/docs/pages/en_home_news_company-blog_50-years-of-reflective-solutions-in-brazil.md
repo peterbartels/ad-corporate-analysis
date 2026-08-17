@@ -3,7 +3,7 @@ title: "50-years-of-reflective-solutions-in-brazil"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/50-years-of-reflective-solutions-in-brazil`](/pages/en_home_news_company-blog_50-years-of-reflective-solutions-in-brazil)  
+**Page:** [/en/home/news/company-blog/50-years-of-reflective-solutions-in-brazil](https://www.averydennison.com/en/home/news/company-blog/50-years-of-reflective-solutions-in-brazil.html)  
 **Template cluster:** `6a0e8d4df2` (Blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

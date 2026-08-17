@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/next-level-innovation-z2010-passes-the-ice-bucket-test`  
+**Page:** [/en/home/news/company-blog/next-level-innovation-z2010-passes-the-ice-bucket-test](https://www.averydennison.com/en/home/news/company-blog/next-level-innovation-z2010-passes-the-ice-bucket-test.html)  
 **Template cluster:** `88318d8550` (company blog article (legacy skeleton, YouTube video))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

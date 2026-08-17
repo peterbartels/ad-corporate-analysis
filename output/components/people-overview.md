@@ -8,6 +8,12 @@ Grid of people tiles with circular photo, name and role, optionally grouped unde
 
 > **Migration notes:** In headless, people should be entries of a Person content type referenced here (shared with person-bio and article-author).
 
+## Example
+
+![People Overview example — /en/home/company/our-leadership](examples/people-overview.png)
+
+*Captured live from [/en/home/company/our-leadership](https://www.averydennison.com/en/home/company/our-leadership.html) — see the [page composition](../pages/en_home_company_our-leadership/composition.md).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

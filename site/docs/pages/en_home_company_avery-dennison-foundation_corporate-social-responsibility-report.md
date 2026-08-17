@@ -3,7 +3,7 @@ title: "corporate-social-responsibility-report"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/company/avery-dennison-foundation/corporate-social-responsibility-report`](/pages/en_home_company_avery-dennison-foundation_corporate-social-responsibility-report)  
+**Page:** [/en/home/company/avery-dennison-foundation/corporate-social-responsibility-report](https://www.averydennison.com/en/home/company/avery-dennison-foundation/corporate-social-responsibility-report.html)  
 **Template cluster:** `5887f999d8` (report landing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

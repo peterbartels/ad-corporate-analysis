@@ -3,7 +3,7 @@ title: "virtual-interview-instructions"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/careers/virtual-interview-instructions`](/pages/en_home_careers_virtual-interview-instructions)  
+**Page:** [/en/home/careers/virtual-interview-instructions](https://www.averydennison.com/en/home/careers/virtual-interview-instructions.html)  
 **Template cluster:** `fd3a316b75` (plain text / policy page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

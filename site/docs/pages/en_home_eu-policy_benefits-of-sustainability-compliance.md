@@ -3,7 +3,7 @@ title: "benefits-of-sustainability-compliance"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/eu-policy/benefits-of-sustainability-compliance`](/pages/en_home_eu-policy_benefits-of-sustainability-compliance)  
+**Page:** [/en/home/eu-policy/benefits-of-sustainability-compliance](https://www.averydennison.com/en/home/eu-policy/benefits-of-sustainability-compliance.html)  
 **Template cluster:** `36c673859c` (campaign article page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

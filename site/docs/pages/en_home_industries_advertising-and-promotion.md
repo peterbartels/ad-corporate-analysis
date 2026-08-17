@@ -3,7 +3,7 @@ title: "advertising-and-promotion"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/industries/advertising-and-promotion`](/pages/en_home_industries_advertising-and-promotion)  
+**Page:** [/en/home/industries/advertising-and-promotion](https://www.averydennison.com/en/home/industries/advertising-and-promotion.html)  
 **Template cluster:** `a4c79ec4be` (industry landing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

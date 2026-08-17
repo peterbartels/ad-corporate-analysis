@@ -3,7 +3,7 @@ title: "pride-2023-meet-members-of-unite-florian-schwickert"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/pride-2023-meet-members-of-unite-florian-schwickert`](/pages/en_home_news_company-blog_pride-2023-meet-members-of-unite-florian-schwickert)  
+**Page:** [/en/home/news/company-blog/pride-2023-meet-members-of-unite-florian-schwickert](https://www.averydennison.com/en/home/news/company-blog/pride-2023-meet-members-of-unite-florian-schwickert.html)  
 **Template cluster:** `6080bb04f2` (company blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

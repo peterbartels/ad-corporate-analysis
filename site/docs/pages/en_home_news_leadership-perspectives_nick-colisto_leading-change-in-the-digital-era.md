@@ -3,7 +3,7 @@ title: "leading-change-in-the-digital-era"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/leadership-perspectives/nick-colisto/leading-change-in-the-digital-era`](/pages/en_home_news_leadership-perspectives_nick-colisto_leading-change-in-the-digital-era)  
+**Page:** [/en/home/news/leadership-perspectives/nick-colisto/leading-change-in-the-digital-era](https://www.averydennison.com/en/home/news/leadership-perspectives/nick-colisto/leading-change-in-the-digital-era.html)  
 **Template cluster:** `a2e904ad76` (leadership perspectives article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

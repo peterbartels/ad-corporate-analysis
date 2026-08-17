@@ -3,7 +3,7 @@ title: "engineering-leadership-from-within"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/leadership-perspectives/nick-colisto/engineering-leadership-from-within`](/pages/en_home_news_leadership-perspectives_nick-colisto_engineering-leadership-from-within)  
+**Page:** [/en/home/news/leadership-perspectives/nick-colisto/engineering-leadership-from-within](https://www.averydennison.com/en/home/news/leadership-perspectives/nick-colisto/engineering-leadership-from-within.html)  
 **Template cluster:** `ea9896af26` (leadership perspectives article (two pull quotes))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

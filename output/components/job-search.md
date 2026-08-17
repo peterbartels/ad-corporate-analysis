@@ -8,6 +8,12 @@ SmartRecruiters job-search widget: keyword search, country/city/department dropd
 
 > **Migration notes:** Per DEPT table this is an HTML embed of the SmartRecruiters widget; jobCard.* and filters[] props observed by analysts are runtime API data, not CMS fields. Rebuild as a React integration in Next.js.
 
+## Example
+
+![Job Search example — /en/home/careers/search-jobs](examples/job-search.png)
+
+*Captured live from [/en/home/careers/search-jobs](https://www.averydennison.com/en/home/careers/search-jobs.html) — see the [page composition](../pages/en_home_careers_search-jobs/composition.md).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

@@ -3,7 +3,7 @@ title: "avery-dennison-launches-ad-identifresh"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/press-releases/avery-dennison-launches-ad-identifresh`](/pages/en_home_news_press-releases_avery-dennison-launches-ad-identifresh)  
+**Page:** [/en/home/news/press-releases/avery-dennison-launches-ad-identifresh](https://www.averydennison.com/en/home/news/press-releases/avery-dennison-launches-ad-identifresh.html)  
 **Template cluster:** `c27099a492` (press release - corporate announcement)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

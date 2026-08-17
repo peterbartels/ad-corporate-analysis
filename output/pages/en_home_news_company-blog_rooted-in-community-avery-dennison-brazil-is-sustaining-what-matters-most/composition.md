@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/rooted-in-community-avery-dennison-brazil-is-sustaining-what-matters-most`  
+**Page:** [/en/home/news/company-blog/rooted-in-community-avery-dennison-brazil-is-sustaining-what-matters-most](https://www.averydennison.com/en/home/news/company-blog/rooted-in-community-avery-dennison-brazil-is-sustaining-what-matters-most.html)  
 **Template cluster:** `aa8570ba5a` (blog story with multiple captioned images)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/press-releases/avery-dennison-announces-q3-2023-results`  
+**Page:** [/en/home/news/press-releases/avery-dennison-announces-q3-2023-results](https://www.averydennison.com/en/home/news/press-releases/avery-dennison-announces-q3-2023-results.html)  
 **Template cluster:** `b3bf97e15d` (press release - quarterly earnings (legacy))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

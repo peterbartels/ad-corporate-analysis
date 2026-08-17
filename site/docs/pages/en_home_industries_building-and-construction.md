@@ -3,7 +3,7 @@ title: "building-and-construction"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/industries/building-and-construction`](/pages/en_home_industries_building-and-construction)  
+**Page:** [/en/home/industries/building-and-construction](https://www.averydennison.com/en/home/industries/building-and-construction.html)  
 **Template cluster:** `17e750259f` (industry landing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

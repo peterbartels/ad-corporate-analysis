@@ -8,6 +8,12 @@ Author byline card for leadership-perspectives articles: round headshot, name, j
 
 > **Migration notes:** NEW component per DEPT table. Should reference a shared Person content type (also used by people-overview and person-bio).
 
+## Example
+
+![Article Author example — /en/home/news/leadership-perspectives/nick-colisto/championing-collaboration](examples/article-author.png)
+
+*Captured live from [/en/home/news/leadership-perspectives/nick-colisto/championing-collaboration](https://www.averydennison.com/en/home/news/leadership-perspectives/nick-colisto/championing-collaboration.html) — see the [page composition](../pages/en_home_news_leadership-perspectives_nick-colisto_championing-collaboration/composition.md).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

@@ -3,7 +3,7 @@ title: "food"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/industries/food`](/pages/en_home_industries_food)  
+**Page:** [/en/home/industries/food](https://www.averydennison.com/en/home/industries/food.html)  
 **Template cluster:** `6a6117c6fc` (industry landing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/making-possible`  
+**Page:** [/en/home/making-possible](https://www.averydennison.com/en/home/making-possible.html)  
 **Template cluster:** `f18c34ef03` (campaign-landing)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

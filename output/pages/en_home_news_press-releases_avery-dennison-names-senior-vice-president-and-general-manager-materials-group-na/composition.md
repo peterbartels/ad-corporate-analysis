@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/press-releases/avery-dennison-names-senior-vice-president-and-general-manager-materials-group-na`  
+**Page:** [/en/home/news/press-releases/avery-dennison-names-senior-vice-president-and-general-manager-materials-group-na](https://www.averydennison.com/en/home/news/press-releases/avery-dennison-names-senior-vice-president-and-general-manager-materials-group-na.html)  
 **Template cluster:** `696c712cbf` (press release - short announcement)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

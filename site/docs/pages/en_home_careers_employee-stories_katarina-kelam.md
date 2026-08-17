@@ -3,7 +3,7 @@ title: "katarina-kelam"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/careers/employee-stories/katarina-kelam`](/pages/en_home_careers_employee-stories_katarina-kelam)  
+**Page:** [/en/home/careers/employee-stories/katarina-kelam](https://www.averydennison.com/en/home/careers/employee-stories/katarina-kelam.html)  
 **Template cluster:** `9635bda9b2` (employee story article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

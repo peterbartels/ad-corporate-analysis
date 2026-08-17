@@ -3,7 +3,7 @@ title: "avery-dennison-names-ryan-yost-president-materials-group"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/press-releases/avery-dennison-names-ryan-yost-president-materials-group`](/pages/en_home_news_press-releases_avery-dennison-names-ryan-yost-president-materials-group)  
+**Page:** [/en/home/news/press-releases/avery-dennison-names-ryan-yost-president-materials-group](https://www.averydennison.com/en/home/news/press-releases/avery-dennison-names-ryan-yost-president-materials-group.html)  
 **Template cluster:** `c0f13f5e8c` (press release - leadership appointment)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

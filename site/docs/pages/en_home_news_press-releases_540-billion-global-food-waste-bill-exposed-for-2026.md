@@ -3,7 +3,7 @@ title: "540-billion-global-food-waste-bill-exposed-for-2026"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/press-releases/540-billion-global-food-waste-bill-exposed-for-2026`](/pages/en_home_news_press-releases_540-billion-global-food-waste-bill-exposed-for-2026)  
+**Page:** [/en/home/news/press-releases/540-billion-global-food-waste-bill-exposed-for-2026](https://www.averydennison.com/en/home/news/press-releases/540-billion-global-food-waste-bill-exposed-for-2026.html)  
 **Template cluster:** `a6022c4603` (press release (research report, with notes to editors))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -3,7 +3,7 @@ title: "global-website-directory"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/global-website-directory`](/pages/en_home_global-website-directory)  
+**Page:** [/en/home/global-website-directory](https://www.averydennison.com/en/home/global-website-directory.html)  
 **Template cluster:** `9f8919c612` (website directory page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

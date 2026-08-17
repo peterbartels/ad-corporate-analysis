@@ -3,7 +3,7 @@ title: "search-jobs"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/careers/search-jobs`](/pages/en_home_careers_search-jobs)  
+**Page:** [/en/home/careers/search-jobs](https://www.averydennison.com/en/home/careers/search-jobs.html)  
 **Template cluster:** `b8afa38fa0` (job search page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

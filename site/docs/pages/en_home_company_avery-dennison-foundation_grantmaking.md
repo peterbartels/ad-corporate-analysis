@@ -3,7 +3,7 @@ title: "grantmaking"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/company/avery-dennison-foundation/grantmaking`](/pages/en_home_company_avery-dennison-foundation_grantmaking)  
+**Page:** [/en/home/company/avery-dennison-foundation/grantmaking](https://www.averydennison.com/en/home/company/avery-dennison-foundation/grantmaking.html)  
 **Template cluster:** `924e5149a4` (grant program information page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

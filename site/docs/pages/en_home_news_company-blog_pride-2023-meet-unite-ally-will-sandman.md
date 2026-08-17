@@ -3,7 +3,7 @@ title: "pride-2023-meet-unite-ally-will-sandman"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/pride-2023-meet-unite-ally-will-sandman`](/pages/en_home_news_company-blog_pride-2023-meet-unite-ally-will-sandman)  
+**Page:** [/en/home/news/company-blog/pride-2023-meet-unite-ally-will-sandman](https://www.averydennison.com/en/home/news/company-blog/pride-2023-meet-unite-ally-will-sandman.html)  
 **Template cluster:** `d02b57828a` (blog-article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

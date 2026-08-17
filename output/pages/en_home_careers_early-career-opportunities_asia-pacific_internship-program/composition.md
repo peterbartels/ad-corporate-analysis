@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/careers/early-career-opportunities/asia-pacific/internship-program`  
+**Page:** [/en/home/careers/early-career-opportunities/asia-pacific/internship-program](https://www.averydennison.com/en/home/careers/early-career-opportunities/asia-pacific/internship-program.html)  
 **Template cluster:** `c50f95eeca` (career program detail page (two-column with sidebar))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

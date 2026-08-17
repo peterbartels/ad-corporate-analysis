@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/industries/supply-chain`  
+**Page:** [/en/home/industries/supply-chain](https://www.averydennison.com/en/home/industries/supply-chain.html)  
 **Template cluster:** `3af23ee5f5` (industry-landing)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

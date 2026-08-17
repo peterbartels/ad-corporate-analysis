@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/adf-scholars-demonstrate-education-access-in-action`  
+**Page:** [/en/home/news/company-blog/adf-scholars-demonstrate-education-access-in-action](https://www.averydennison.com/en/home/news/company-blog/adf-scholars-demonstrate-education-access-in-action.html)  
 **Template cluster:** `75b99e97fa` (company blog article (profile sections))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

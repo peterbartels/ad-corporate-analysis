@@ -3,7 +3,7 @@ title: "brimos-produces-high-quality-overhead-guide-signs-with-ease-using-traffi
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/brimos-produces-high-quality-overhead-guide-signs-with-ease-using-trafficjet-pro`](/pages/en_home_news_company-blog_brimos-produces-high-quality-overhead-guide-signs-with-ease-using-trafficjet-pro)  
+**Page:** [/en/home/news/company-blog/brimos-produces-high-quality-overhead-guide-signs-with-ease-using-trafficjet-pro](https://www.averydennison.com/en/home/news/company-blog/brimos-produces-high-quality-overhead-guide-signs-with-ease-using-trafficjet-pro.html)  
 **Template cluster:** `6080bb04f2` (company blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

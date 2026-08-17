@@ -3,7 +3,7 @@ title: "rfid"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/industries/rfid`](/pages/en_home_industries_rfid)  
+**Page:** [/en/home/industries/rfid](https://www.averydennison.com/en/home/industries/rfid.html)  
 **Template cluster:** `89410dbead` (industry landing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

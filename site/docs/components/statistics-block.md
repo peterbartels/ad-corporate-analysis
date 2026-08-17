@@ -12,6 +12,12 @@ Displays statistics and fact highlights in several observed layouts: a 3-box bor
 
 > **Migration notes:** Per DEPT table 'info stat boxes / big numbers'. The valueCards usage may deserve splitting into categories-block during build if editors find the variant overloaded.
 
+## Example
+
+![Statistics Block example — /en/home/careers/employee-stories/alexandrina-cheptanaru](/component-examples/statistics-block.png)
+
+*Captured live from [/en/home/careers/employee-stories/alexandrina-cheptanaru](https://www.averydennison.com/en/home/careers/employee-stories/alexandrina-cheptanaru.html) — see the [page composition](/pages/en_home_careers_employee-stories_alexandrina-cheptanaru).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

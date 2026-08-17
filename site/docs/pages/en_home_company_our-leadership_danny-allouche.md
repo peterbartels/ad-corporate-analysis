@@ -3,7 +3,7 @@ title: "danny-allouche"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/company/our-leadership/danny-allouche`](/pages/en_home_company_our-leadership_danny-allouche)  
+**Page:** [/en/home/company/our-leadership/danny-allouche](https://www.averydennison.com/en/home/company/our-leadership/danny-allouche.html)  
 **Template cluster:** `4ad5c26a09` (leadership bio page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -3,7 +3,7 @@ title: "anula-prokopowicz"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/careers/employee-stories/anula-prokopowicz`](/pages/en_home_careers_employee-stories_anula-prokopowicz)  
+**Page:** [/en/home/careers/employee-stories/anula-prokopowicz](https://www.averydennison.com/en/home/careers/employee-stories/anula-prokopowicz.html)  
 **Template cluster:** `9635bda9b2` (employee story article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

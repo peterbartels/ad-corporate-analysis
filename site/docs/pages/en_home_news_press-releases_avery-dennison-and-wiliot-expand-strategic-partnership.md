@@ -3,7 +3,7 @@ title: "avery-dennison-and-wiliot-expand-strategic-partnership"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/press-releases/avery-dennison-and-wiliot-expand-strategic-partnership`](/pages/en_home_news_press-releases_avery-dennison-and-wiliot-expand-strategic-partnership)  
+**Page:** [/en/home/news/press-releases/avery-dennison-and-wiliot-expand-strategic-partnership](https://www.averydennison.com/en/home/news/press-releases/avery-dennison-and-wiliot-expand-strategic-partnership.html)  
 **Template cluster:** `571906f1c7` (press release (partnership, long body with partner boilerplate))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

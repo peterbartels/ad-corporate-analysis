@@ -2,7 +2,7 @@
 title: "julie-vargas"
 ---
 
-**Page:** [`/en/home/news/leadership-perspectives/julie-vargas`](/pages/en_home_news_leadership-perspectives_julie-vargas)
+**Page:** [/en/home/news/leadership-perspectives/julie-vargas](https://www.averydennison.com/en/home/news/leadership-perspectives/julie-vargas.html)
 
 # Structural node page
 

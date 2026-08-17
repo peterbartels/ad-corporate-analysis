@@ -3,7 +3,7 @@ title: "faq"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/careers/early-career-opportunities/europe/faq`](/pages/en_home_careers_early-career-opportunities_europe_faq)  
+**Page:** [/en/home/careers/early-career-opportunities/europe/faq](https://www.averydennison.com/en/home/careers/early-career-opportunities/europe/faq.html)  
 **Template cluster:** `69c0ea7499` (program stream detail page with contact form)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

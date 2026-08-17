@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/careers/employee-stories/juliana-bonani`  
+**Page:** [/en/home/careers/employee-stories/juliana-bonani](https://www.averydennison.com/en/home/careers/employee-stories/juliana-bonani.html)  
 **Template cluster:** `0c3d94e684` (employee story article (translated, with campaign reflection card))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/eu-policy`  
+**Page:** [/en/home/eu-policy](https://www.averydennison.com/en/home/eu-policy.html)  
 **Template cluster:** `15b82ebcdc` (campaign landing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

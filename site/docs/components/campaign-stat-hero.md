@@ -12,6 +12,12 @@ Bespoke campaign hero banner (nourish-header markup built on carousel structure)
 
 > **Migration notes:** NEW component. Absorbs raw 'campaign-stat-banner' (identical props, same bespoke nourish-header markup). Kept separate from short-hero (no text) and statistics-block (inline stats) — genuinely a distinct hero pattern.
 
+## Example
+
+![Campaign Stat Hero example — /en/home](/component-examples/campaign-stat-hero.png)
+
+*Captured live from [/en/home](https://www.averydennison.com/en/home.html) — see the [page composition](/pages/en_home).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

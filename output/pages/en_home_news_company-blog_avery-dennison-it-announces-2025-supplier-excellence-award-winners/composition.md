@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/avery-dennison-it-announces-2025-supplier-excellence-award-winners`  
+**Page:** [/en/home/news/company-blog/avery-dennison-it-announces-2025-supplier-excellence-award-winners](https://www.averydennison.com/en/home/news/company-blog/avery-dennison-it-announces-2025-supplier-excellence-award-winners.html)  
 **Template cluster:** `91abc29b87` (company blog article (announcement with winners list))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

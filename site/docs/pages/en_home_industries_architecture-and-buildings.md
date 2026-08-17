@@ -3,7 +3,7 @@ title: "architecture-and-buildings"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/industries/architecture-and-buildings`](/pages/en_home_industries_architecture-and-buildings)  
+**Page:** [/en/home/industries/architecture-and-buildings](https://www.averydennison.com/en/home/industries/architecture-and-buildings.html)  
 **Template cluster:** `17e750259f` (industry landing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

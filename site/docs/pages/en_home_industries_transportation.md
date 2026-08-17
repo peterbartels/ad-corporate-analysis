@@ -3,7 +3,7 @@ title: "transportation"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/industries/transportation`](/pages/en_home_industries_transportation)  
+**Page:** [/en/home/industries/transportation](https://www.averydennison.com/en/home/industries/transportation.html)  
 **Template cluster:** `c0d42894da` (Industry overview page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

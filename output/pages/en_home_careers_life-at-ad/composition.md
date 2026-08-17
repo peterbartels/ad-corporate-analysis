@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/careers/life-at-ad`  
+**Page:** [/en/home/careers/life-at-ad](https://www.averydennison.com/en/home/careers/life-at-ad.html)  
 **Template cluster:** `598a46c040` (employee stories listing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

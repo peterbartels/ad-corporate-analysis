@@ -1,4 +1,4 @@
-**Page:** `/en/home/news/leadership-perspectives/nick-colisto`
+**Page:** [/en/home/news/leadership-perspectives/nick-colisto](https://www.averydennison.com/en/home/news/leadership-perspectives/nick-colisto.html)
 
 # Structural node page
 

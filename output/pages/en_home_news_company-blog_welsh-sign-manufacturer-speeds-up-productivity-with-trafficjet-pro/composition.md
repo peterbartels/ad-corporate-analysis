@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/welsh-sign-manufacturer-speeds-up-productivity-with-trafficjet-pro`  
+**Page:** [/en/home/news/company-blog/welsh-sign-manufacturer-speeds-up-productivity-with-trafficjet-pro](https://www.averydennison.com/en/home/news/company-blog/welsh-sign-manufacturer-speeds-up-productivity-with-trafficjet-pro.html)  
 **Template cluster:** `3ae169c91d` (blog article with captioned images)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

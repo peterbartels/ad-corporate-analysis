@@ -3,7 +3,7 @@ title: "isabela-galli"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/company/our-leadership/isabela-galli`](/pages/en_home_company_our-leadership_isabela-galli)  
+**Page:** [/en/home/company/our-leadership/isabela-galli](https://www.averydennison.com/en/home/company/our-leadership/isabela-galli.html)  
 **Template cluster:** `4ad5c26a09` (leadership bio page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

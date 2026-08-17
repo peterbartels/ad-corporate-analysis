@@ -3,7 +3,7 @@ title: "adf-action-against-hunger"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/adf-action-against-hunger`](/pages/en_home_news_company-blog_adf-action-against-hunger)  
+**Page:** [/en/home/news/company-blog/adf-action-against-hunger](https://www.averydennison.com/en/home/news/company-blog/adf-action-against-hunger.html)  
 **Template cluster:** `438c8ba563` (company blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

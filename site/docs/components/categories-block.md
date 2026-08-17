@@ -12,6 +12,12 @@ Row/grid of icon-led category items: line-art icon, title, description, optional
 
 > **Migration notes:** Absorbs raw 'awards-block' (careers dark award band) — its shape (central trophy icon, items with title + source) matches the awards variant already observed in categories-block.
 
+## Example
+
+![Categories Block example — /en/home/careers/overview](/component-examples/categories-block.png)
+
+*Captured live from [/en/home/careers/overview](https://www.averydennison.com/en/home/careers/overview.html) — see the [page composition](/pages/en_home_careers_overview).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/company/diversity`  
+**Page:** [/en/home/company/diversity](https://www.averydennison.com/en/home/company/diversity.html)  
 **Template cluster:** `037bdbc85b` (diversity culture page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

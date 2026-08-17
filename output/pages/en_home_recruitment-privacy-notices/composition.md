@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/recruitment-privacy-notices`  
+**Page:** [/en/home/recruitment-privacy-notices](https://www.averydennison.com/en/home/recruitment-privacy-notices.html)  
 **Template cluster:** `1b35667649` (document download list page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

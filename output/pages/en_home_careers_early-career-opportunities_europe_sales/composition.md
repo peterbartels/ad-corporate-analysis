@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/careers/early-career-opportunities/europe/sales`  
+**Page:** [/en/home/careers/early-career-opportunities/europe/sales](https://www.averydennison.com/en/home/careers/early-career-opportunities/europe/sales.html)  
 **Template cluster:** `69c0ea7499` (program stream detail page with contact form)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

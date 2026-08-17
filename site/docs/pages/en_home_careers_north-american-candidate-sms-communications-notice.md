@@ -3,7 +3,7 @@ title: "north-american-candidate-sms-communications-notice"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/careers/north-american-candidate-sms-communications-notice`](/pages/en_home_careers_north-american-candidate-sms-communications-notice)  
+**Page:** [/en/home/careers/north-american-candidate-sms-communications-notice](https://www.averydennison.com/en/home/careers/north-american-candidate-sms-communications-notice.html)  
 **Template cluster:** `fd3a316b75` (plain text / policy page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

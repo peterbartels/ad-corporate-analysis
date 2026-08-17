@@ -3,7 +3,7 @@ title: "standing-still-is-going-backwards"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/standing-still-is-going-backwards`](/pages/en_home_news_company-blog_standing-still-is-going-backwards)  
+**Page:** [/en/home/news/company-blog/standing-still-is-going-backwards](https://www.averydennison.com/en/home/news/company-blog/standing-still-is-going-backwards.html)  
 **Template cluster:** `843aaf2c0a` (blog customer story with alternating images)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

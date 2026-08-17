@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/industries/apparel`  
+**Page:** [/en/home/industries/apparel](https://www.averydennison.com/en/home/industries/apparel.html)  
 **Template cluster:** `83165d0208` (industry landing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -3,7 +3,7 @@ title: "avery-dennison-reflective-solutions-enhances-safety-in-indias-first-hybr
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/avery-dennison-reflective-solutions-enhances-safety-in-indias-first-hybrid-ambulance`](/pages/en_home_news_company-blog_avery-dennison-reflective-solutions-enhances-safety-in-indias-first-hybrid-ambulance)  
+**Page:** [/en/home/news/company-blog/avery-dennison-reflective-solutions-enhances-safety-in-indias-first-hybrid-ambulance](https://www.averydennison.com/en/home/news/company-blog/avery-dennison-reflective-solutions-enhances-safety-in-indias-first-hybrid-ambulance.html)  
 **Template cluster:** `e2fb40e4ea` (company blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -8,6 +8,12 @@ Header block for press releases and blog/employee-story articles. Renders catego
 
 > **Migration notes:** In headless, most of these fields should live on the Article content type itself and be rendered by this component rather than authored per-instance.
 
+## Example
+
+![Article Header example — /en/home/news/company-blog/10-fave-automotive-restyling-projects-of-2024](examples/article-header.png)
+
+*Captured live from [/en/home/news/company-blog/10-fave-automotive-restyling-projects-of-2024](https://www.averydennison.com/en/home/news/company-blog/10-fave-automotive-restyling-projects-of-2024.html) — see the [page composition](../pages/en_home_news_company-blog_10-fave-automotive-restyling-projects-of-2024/composition.md).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

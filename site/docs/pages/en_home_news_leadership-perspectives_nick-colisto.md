@@ -2,7 +2,7 @@
 title: "nick-colisto"
 ---
 
-**Page:** [`/en/home/news/leadership-perspectives/nick-colisto`](/pages/en_home_news_leadership-perspectives_nick-colisto)
+**Page:** [/en/home/news/leadership-perspectives/nick-colisto](https://www.averydennison.com/en/home/news/leadership-perspectives/nick-colisto.html)
 
 # Structural node page
 

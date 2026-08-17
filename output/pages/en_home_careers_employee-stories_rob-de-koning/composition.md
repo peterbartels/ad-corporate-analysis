@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/careers/employee-stories/rob-de-koning`  
+**Page:** [/en/home/careers/employee-stories/rob-de-koning](https://www.averydennison.com/en/home/careers/employee-stories/rob-de-koning.html)  
 **Template cluster:** `125e55b8d9` (employee story article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

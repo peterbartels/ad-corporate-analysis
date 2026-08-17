@@ -1,4 +1,4 @@
-**Page:** `/en/home/news`
+**Page:** [/en/home/news](https://www.averydennison.com/en/home/news.html)
 
 # Structural node page
 

@@ -2,7 +2,7 @@
 title: "employee-stories"
 ---
 
-**Page:** [`/en/home/careers/employee-stories`](/pages/en_home_careers_employee-stories)
+**Page:** [/en/home/careers/employee-stories](https://www.averydennison.com/en/home/careers/employee-stories.html)
 
 # Structural node page
 

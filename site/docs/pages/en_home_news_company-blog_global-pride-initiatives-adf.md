@@ -3,7 +3,7 @@ title: "global-pride-initiatives-adf"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/global-pride-initiatives-adf`](/pages/en_home_news_company-blog_global-pride-initiatives-adf)  
+**Page:** [/en/home/news/company-blog/global-pride-initiatives-adf](https://www.averydennison.com/en/home/news/company-blog/global-pride-initiatives-adf.html)  
 **Template cluster:** `def1b94cf5` (blog-article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

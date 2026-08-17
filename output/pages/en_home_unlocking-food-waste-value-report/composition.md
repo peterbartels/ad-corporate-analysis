@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/unlocking-food-waste-value-report`  
+**Page:** [/en/home/unlocking-food-waste-value-report](https://www.averydennison.com/en/home/unlocking-food-waste-value-report.html)  
 **Template cluster:** `3734fe32a4` (campaign report landing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

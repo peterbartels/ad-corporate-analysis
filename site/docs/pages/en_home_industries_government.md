@@ -3,7 +3,7 @@ title: "government"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/industries/government`](/pages/en_home_industries_government)  
+**Page:** [/en/home/industries/government](https://www.averydennison.com/en/home/industries/government.html)  
 **Template cluster:** `05b4b9bf3a` (industry landing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -3,7 +3,7 @@ title: "ol-1200-anti-dew-film-protecting-traffic-signs-in-uk"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/ol-1200-anti-dew-film-protecting-traffic-signs-in-uk`](/pages/en_home_news_company-blog_ol-1200-anti-dew-film-protecting-traffic-signs-in-uk)  
+**Page:** [/en/home/news/company-blog/ol-1200-anti-dew-film-protecting-traffic-signs-in-uk](https://www.averydennison.com/en/home/news/company-blog/ol-1200-anti-dew-film-protecting-traffic-signs-in-uk.html)  
 **Template cluster:** `3ae169c91d` (blog article with captioned images)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

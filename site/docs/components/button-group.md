@@ -10,6 +10,12 @@ title: "Button Group"
 
 Horizontal group of one or more buttons, optionally introduced by a small heading (e.g. 'Related'). Observed with a single red pill anchor-link button on the campaign report page and in press-release sidebars.
 
+## Example
+
+![Button Group example — /en/home/news/press-releases/avery-dennison-announces-fourth-quarter-and-full-year-2021-results](/component-examples/button-group.png)
+
+*Captured live from [/en/home/news/press-releases/avery-dennison-announces-fourth-quarter-and-full-year-2021-results](https://www.averydennison.com/en/home/news/press-releases/avery-dennison-announces-fourth-quarter-and-full-year-2021-results.html) — see the [page composition](/pages/en_home_news_press-releases_avery-dennison-announces-fourth-quarter-and-full-year-2021-results).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

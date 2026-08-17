@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/careers/employee-stories/tiina-vuorinen`  
+**Page:** [/en/home/careers/employee-stories/tiina-vuorinen](https://www.averydennison.com/en/home/careers/employee-stories/tiina-vuorinen.html)  
 **Template cluster:** `7cb73f20f9` (employee story article (short, closing photo pair))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

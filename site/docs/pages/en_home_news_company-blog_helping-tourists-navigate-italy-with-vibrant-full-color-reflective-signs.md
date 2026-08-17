@@ -3,7 +3,7 @@ title: "helping-tourists-navigate-italy-with-vibrant-full-color-reflective-signs
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/helping-tourists-navigate-italy-with-vibrant-full-color-reflective-signs`](/pages/en_home_news_company-blog_helping-tourists-navigate-italy-with-vibrant-full-color-reflective-signs)  
+**Page:** [/en/home/news/company-blog/helping-tourists-navigate-italy-with-vibrant-full-color-reflective-signs](https://www.averydennison.com/en/home/news/company-blog/helping-tourists-navigate-italy-with-vibrant-full-color-reflective-signs.html)  
 **Template cluster:** `050884a638` (company blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

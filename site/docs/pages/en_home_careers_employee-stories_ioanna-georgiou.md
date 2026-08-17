@@ -3,7 +3,7 @@ title: "ioanna-georgiou"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/careers/employee-stories/ioanna-georgiou`](/pages/en_home_careers_employee-stories_ioanna-georgiou)  
+**Page:** [/en/home/careers/employee-stories/ioanna-georgiou](https://www.averydennison.com/en/home/careers/employee-stories/ioanna-georgiou.html)  
 **Template cluster:** `f6b79cded2` (employee story article with campaign reflection card)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/3rd-trafficjet-printer-for-bb-skilti-iceland`  
+**Page:** [/en/home/news/company-blog/3rd-trafficjet-printer-for-bb-skilti-iceland](https://www.averydennison.com/en/home/news/company-blog/3rd-trafficjet-printer-for-bb-skilti-iceland.html)  
 **Template cluster:** `320e0af337` (company blog article (spacer skeleton, inline image grid))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/avery-dennison-foundation-shares-new-strategy-address-global-challenges`  
+**Page:** [/en/home/news/company-blog/avery-dennison-foundation-shares-new-strategy-address-global-challenges](https://www.averydennison.com/en/home/news/company-blog/avery-dennison-foundation-shares-new-strategy-address-global-challenges.html)  
 **Template cluster:** `3de8c040c5` (company blog article (standfirst, interview Q&A))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

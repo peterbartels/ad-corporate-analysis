@@ -3,7 +3,7 @@ title: "deena-baker-nel"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/company/our-leadership/deena-baker-nel`](/pages/en_home_company_our-leadership_deena-baker-nel)  
+**Page:** [/en/home/company/our-leadership/deena-baker-nel](https://www.averydennison.com/en/home/company/our-leadership/deena-baker-nel.html)  
 **Template cluster:** `4ad5c26a09` (leadership bio page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

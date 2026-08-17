@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/careers/applicant-affirmative-action-program`  
+**Page:** [/en/home/careers/applicant-affirmative-action-program](https://www.averydennison.com/en/home/careers/applicant-affirmative-action-program.html)  
 **Template cluster:** `fd3a316b75` (plain text / policy page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

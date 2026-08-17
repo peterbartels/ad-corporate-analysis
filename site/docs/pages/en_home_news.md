@@ -2,7 +2,7 @@
 title: "news"
 ---
 
-**Page:** [`/en/home/news`](/pages/en_home_news)
+**Page:** [/en/home/news](https://www.averydennison.com/en/home/news.html)
 
 # Structural node page
 

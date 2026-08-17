@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/contact-us`  
+**Page:** [/en/home/contact-us](https://www.averydennison.com/en/home/contact-us.html)  
 **Template cluster:** `996a1574c8` (contact form page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

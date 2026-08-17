@@ -3,7 +3,7 @@ title: "connect-with-our-experts"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/unlocking-food-waste-value-report/connect-with-our-experts`](/pages/en_home_unlocking-food-waste-value-report_connect-with-our-experts)  
+**Page:** [/en/home/unlocking-food-waste-value-report/connect-with-our-experts](https://www.averydennison.com/en/home/unlocking-food-waste-value-report/connect-with-our-experts.html)  
 **Template cluster:** `b7960bb140` (campaign contact form page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -3,7 +3,7 @@ title: "new-research-shines-a-light-on-grocery-shoppers-reactions-to-in-store-di
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/press-releases/new-research-shines-a-light-on-grocery-shoppers-reactions-to-in-store-digitization`](/pages/en_home_news_press-releases_new-research-shines-a-light-on-grocery-shoppers-reactions-to-in-store-digitization)  
+**Page:** [/en/home/news/press-releases/new-research-shines-a-light-on-grocery-shoppers-reactions-to-in-store-digitization](https://www.averydennison.com/en/home/news/press-releases/new-research-shines-a-light-on-grocery-shoppers-reactions-to-in-store-digitization.html)  
 **Template cluster:** `c79ffae131` (press release article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

@@ -1,4 +1,4 @@
-**Page:** `/en/home/careers`
+**Page:** [/en/home/careers](https://www.averydennison.com/en/home/careers.html)
 
 # Structural node page
 

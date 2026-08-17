@@ -3,7 +3,7 @@ title: "reports"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/company/reports`](/pages/en_home_company_reports)  
+**Page:** [/en/home/company/reports](https://www.averydennison.com/en/home/company/reports.html)  
 **Template cluster:** `bcebec41f0` (document directory page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

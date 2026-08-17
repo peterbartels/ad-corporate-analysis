@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/the-future-of-ai-business-with-nick-colisto`  
+**Page:** [/en/home/news/company-blog/the-future-of-ai-business-with-nick-colisto](https://www.averydennison.com/en/home/news/company-blog/the-future-of-ai-business-with-nick-colisto.html)  
 **Template cluster:** `f614a93b91` (leadership perspectives Q&A article with image pair)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

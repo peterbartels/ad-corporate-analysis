@@ -3,7 +3,7 @@ title: "early-career-opportunities"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/careers/early-career-opportunities`](/pages/en_home_careers_early-career-opportunities)  
+**Page:** [/en/home/careers/early-career-opportunities](https://www.averydennison.com/en/home/careers/early-career-opportunities.html)  
 **Template cluster:** `8d9a35326a` (early careers landing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

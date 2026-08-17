@@ -3,7 +3,7 @@ title: "global-impact-for-iwd"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/global-impact-for-iwd`](/pages/en_home_news_company-blog_global-impact-for-iwd)  
+**Page:** [/en/home/news/company-blog/global-impact-for-iwd](https://www.averydennison.com/en/home/news/company-blog/global-impact-for-iwd.html)  
 **Template cluster:** `acff257364` (Blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

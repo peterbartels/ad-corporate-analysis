@@ -3,7 +3,7 @@ title: "automotive"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/industries/automotive`](/pages/en_home_industries_automotive)  
+**Page:** [/en/home/industries/automotive](https://www.averydennison.com/en/home/industries/automotive.html)  
 **Template cluster:** `20e92463e1` (industry landing page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

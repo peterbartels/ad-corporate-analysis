@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/contact-us/business-conduct-guideline-directory`  
+**Page:** [/en/home/contact-us/business-conduct-guideline-directory](https://www.averydennison.com/en/home/contact-us/business-conduct-guideline-directory.html)  
 **Template cluster:** `83d8078e96` (directory table page)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

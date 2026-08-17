@@ -3,7 +3,7 @@ title: "trafficjet-pro-finds-a-house-in-germany"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/trafficjet-pro-finds-a-house-in-germany`](/pages/en_home_news_company-blog_trafficjet-pro-finds-a-house-in-germany)  
+**Page:** [/en/home/news/company-blog/trafficjet-pro-finds-a-house-in-germany](https://www.averydennison.com/en/home/news/company-blog/trafficjet-pro-finds-a-house-in-germany.html)  
 **Template cluster:** `843aaf2c0a` (blog customer story with alternating images)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

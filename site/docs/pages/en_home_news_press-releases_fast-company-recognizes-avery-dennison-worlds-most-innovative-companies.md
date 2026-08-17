@@ -3,7 +3,7 @@ title: "fast-company-recognizes-avery-dennison-worlds-most-innovative-companies"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/press-releases/fast-company-recognizes-avery-dennison-worlds-most-innovative-companies`](/pages/en_home_news_press-releases_fast-company-recognizes-avery-dennison-worlds-most-innovative-companies)  
+**Page:** [/en/home/news/press-releases/fast-company-recognizes-avery-dennison-worlds-most-innovative-companies](https://www.averydennison.com/en/home/news/press-releases/fast-company-recognizes-avery-dennison-worlds-most-innovative-companies.html)  
 **Template cluster:** `696c712cbf` (press release - short announcement)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

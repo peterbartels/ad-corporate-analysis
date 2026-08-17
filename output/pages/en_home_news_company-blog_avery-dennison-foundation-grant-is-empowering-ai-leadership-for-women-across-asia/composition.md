@@ -1,5 +1,5 @@
 <!-- generated: component composition analysis -->
-**Page:** `/en/home/news/company-blog/avery-dennison-foundation-grant-is-empowering-ai-leadership-for-women-across-asia`  
+**Page:** [/en/home/news/company-blog/avery-dennison-foundation-grant-is-empowering-ai-leadership-for-women-across-asia](https://www.averydennison.com/en/home/news/company-blog/avery-dennison-foundation-grant-is-empowering-ai-leadership-for-women-across-asia.html)  
 **Template cluster:** `5733708c94` (company blog article)  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 

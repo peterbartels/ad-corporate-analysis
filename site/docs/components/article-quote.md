@@ -12,6 +12,12 @@ Pull-quote / testimonial block used inside articles and on careers pages. Shows 
 
 > **Migration notes:** Distinct from testimonial-card (multi-card grid on the campaign report page).
 
+## Example
+
+![Article Quote example — /en/home/careers/employee-stories/alexandrina-cheptanaru](/component-examples/article-quote.png)
+
+*Captured live from [/en/home/careers/employee-stories/alexandrina-cheptanaru](https://www.averydennison.com/en/home/careers/employee-stories/alexandrina-cheptanaru.html) — see the [page composition](/pages/en_home_careers_employee-stories_alexandrina-cheptanaru).*
+
 ## CMS data model
 
 | Field | Type | Required | Description |

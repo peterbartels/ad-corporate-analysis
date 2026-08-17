@@ -3,7 +3,7 @@ title: "pride-2023-meet-members-of-unite-alice-li"
 ---
 
 <!-- generated: component composition analysis -->
-**Page:** [`/en/home/news/company-blog/pride-2023-meet-members-of-unite-alice-li`](/pages/en_home_news_company-blog_pride-2023-meet-members-of-unite-alice-li)  
+**Page:** [/en/home/news/company-blog/pride-2023-meet-members-of-unite-alice-li](https://www.averydennison.com/en/home/news/company-blog/pride-2023-meet-members-of-unite-alice-li.html)  
 **Template cluster:** `51b53f6c90` (company blog article (standfirst, text-only body))  
 *Rem base: the site sets `html { font-size: 62.5% }` at desktop widths (>=1180px), so 1rem = 10px in all margin values below.*
 
